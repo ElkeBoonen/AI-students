@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "u/rU/CYirtlqxZpqde14S99uq3AP24ig7dnMULWZlvCh8cHVpbcYz2+jHopPvIfya14J4TPjR1UOzLEjCeaHBg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\elkeb\\Source\\Repos\\ElkeBoonen\\AIML-At-Work\\02-SlimmeAlgoritmen\\02-SlimmeAlgoritmen.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\elkeb\\.nuget\\packages\\tm.programmingadvanced\\1.0.4\\tm.programmingadvanced.1.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

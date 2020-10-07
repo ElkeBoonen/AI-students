@@ -1,0 +1,15 @@
+C:\Users\elkeb\Desktop\02-SlimmeAlgoritmen\bin\Debug\netcoreapp3.1\02-SlimmeAlgoritmen.exe
+C:\Users\elkeb\Desktop\02-SlimmeAlgoritmen\obj\Debug\netcoreapp3.1\02-SlimmeAlgoritmen.csprojAssemblyReference.cache
+C:\Users\elkeb\Desktop\02-SlimmeAlgoritmen\obj\Debug\netcoreapp3.1\02-SlimmeAlgoritmen.AssemblyInfoInputs.cache
+C:\Users\elkeb\Desktop\02-SlimmeAlgoritmen\obj\Debug\netcoreapp3.1\02-SlimmeAlgoritmen.AssemblyInfo.cs
+C:\Users\elkeb\Desktop\02-SlimmeAlgoritmen\bin\Debug\netcoreapp3.1\02-SlimmeAlgoritmen.deps.json
+C:\Users\elkeb\Desktop\02-SlimmeAlgoritmen\bin\Debug\netcoreapp3.1\02-SlimmeAlgoritmen.runtimeconfig.json
+C:\Users\elkeb\Desktop\02-SlimmeAlgoritmen\bin\Debug\netcoreapp3.1\02-SlimmeAlgoritmen.runtimeconfig.dev.json
+C:\Users\elkeb\Desktop\02-SlimmeAlgoritmen\bin\Debug\netcoreapp3.1\02-SlimmeAlgoritmen.dll
+C:\Users\elkeb\Desktop\02-SlimmeAlgoritmen\bin\Debug\netcoreapp3.1\02-SlimmeAlgoritmen.pdb
+C:\Users\elkeb\Desktop\02-SlimmeAlgoritmen\bin\Debug\netcoreapp3.1\TM.ProgrammingAdvanced.dll
+C:\Users\elkeb\Desktop\02-SlimmeAlgoritmen\obj\Debug\netcoreapp3.1\02-SlimmeAlgoritmen.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\Desktop\02-SlimmeAlgoritmen\obj\Debug\netcoreapp3.1\02-SlimmeAlgoritmen.csproj.CopyComplete
+C:\Users\elkeb\Desktop\02-SlimmeAlgoritmen\obj\Debug\netcoreapp3.1\02-SlimmeAlgoritmen.dll
+C:\Users\elkeb\Desktop\02-SlimmeAlgoritmen\obj\Debug\netcoreapp3.1\02-SlimmeAlgoritmen.pdb
+C:\Users\elkeb\Desktop\02-SlimmeAlgoritmen\obj\Debug\netcoreapp3.1\02-SlimmeAlgoritmen.genruntimeconfig.cache
