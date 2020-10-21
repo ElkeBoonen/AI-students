@@ -1,0 +1,13 @@
+C:\Users\elkeb\source\repos\ElkeBoonen\AIML-At-Work\05 Recursie\bin\Debug\netcoreapp3.1\05 Recursie.exe
+C:\Users\elkeb\source\repos\ElkeBoonen\AIML-At-Work\05 Recursie\bin\Debug\netcoreapp3.1\05 Recursie.deps.json
+C:\Users\elkeb\source\repos\ElkeBoonen\AIML-At-Work\05 Recursie\bin\Debug\netcoreapp3.1\05 Recursie.runtimeconfig.json
+C:\Users\elkeb\source\repos\ElkeBoonen\AIML-At-Work\05 Recursie\bin\Debug\netcoreapp3.1\05 Recursie.runtimeconfig.dev.json
+C:\Users\elkeb\source\repos\ElkeBoonen\AIML-At-Work\05 Recursie\bin\Debug\netcoreapp3.1\05 Recursie.dll
+C:\Users\elkeb\source\repos\ElkeBoonen\AIML-At-Work\05 Recursie\bin\Debug\netcoreapp3.1\05 Recursie.pdb
+C:\Users\elkeb\source\repos\ElkeBoonen\AIML-At-Work\05 Recursie\obj\Debug\netcoreapp3.1\05 Recursie.csprojAssemblyReference.cache
+C:\Users\elkeb\source\repos\ElkeBoonen\AIML-At-Work\05 Recursie\obj\Debug\netcoreapp3.1\05 Recursie.AssemblyInfoInputs.cache
+C:\Users\elkeb\source\repos\ElkeBoonen\AIML-At-Work\05 Recursie\obj\Debug\netcoreapp3.1\05 Recursie.AssemblyInfo.cs
+C:\Users\elkeb\source\repos\ElkeBoonen\AIML-At-Work\05 Recursie\obj\Debug\netcoreapp3.1\05 Recursie.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\source\repos\ElkeBoonen\AIML-At-Work\05 Recursie\obj\Debug\netcoreapp3.1\05 Recursie.dll
+C:\Users\elkeb\source\repos\ElkeBoonen\AIML-At-Work\05 Recursie\obj\Debug\netcoreapp3.1\05 Recursie.pdb
+C:\Users\elkeb\source\repos\ElkeBoonen\AIML-At-Work\05 Recursie\obj\Debug\netcoreapp3.1\05 Recursie.genruntimeconfig.cache

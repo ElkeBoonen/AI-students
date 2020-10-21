@@ -1,0 +1,13 @@
+C:\Users\elkeb\source\repos\ElkeBoonen\AIML-At-Work\04 GeinformeerdZoeken\bin\Debug\netcoreapp3.1\04 GeinformeerdZoeken.exe
+C:\Users\elkeb\source\repos\ElkeBoonen\AIML-At-Work\04 GeinformeerdZoeken\bin\Debug\netcoreapp3.1\04 GeinformeerdZoeken.deps.json
+C:\Users\elkeb\source\repos\ElkeBoonen\AIML-At-Work\04 GeinformeerdZoeken\bin\Debug\netcoreapp3.1\04 GeinformeerdZoeken.runtimeconfig.json
+C:\Users\elkeb\source\repos\ElkeBoonen\AIML-At-Work\04 GeinformeerdZoeken\bin\Debug\netcoreapp3.1\04 GeinformeerdZoeken.runtimeconfig.dev.json
+C:\Users\elkeb\source\repos\ElkeBoonen\AIML-At-Work\04 GeinformeerdZoeken\bin\Debug\netcoreapp3.1\04 GeinformeerdZoeken.dll
+C:\Users\elkeb\source\repos\ElkeBoonen\AIML-At-Work\04 GeinformeerdZoeken\bin\Debug\netcoreapp3.1\04 GeinformeerdZoeken.pdb
+C:\Users\elkeb\source\repos\ElkeBoonen\AIML-At-Work\04 GeinformeerdZoeken\obj\Debug\netcoreapp3.1\04 GeinformeerdZoeken.csprojAssemblyReference.cache
+C:\Users\elkeb\source\repos\ElkeBoonen\AIML-At-Work\04 GeinformeerdZoeken\obj\Debug\netcoreapp3.1\04 GeinformeerdZoeken.AssemblyInfoInputs.cache
+C:\Users\elkeb\source\repos\ElkeBoonen\AIML-At-Work\04 GeinformeerdZoeken\obj\Debug\netcoreapp3.1\04 GeinformeerdZoeken.AssemblyInfo.cs
+C:\Users\elkeb\source\repos\ElkeBoonen\AIML-At-Work\04 GeinformeerdZoeken\obj\Debug\netcoreapp3.1\04 GeinformeerdZoeken.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\source\repos\ElkeBoonen\AIML-At-Work\04 GeinformeerdZoeken\obj\Debug\netcoreapp3.1\04 GeinformeerdZoeken.dll
+C:\Users\elkeb\source\repos\ElkeBoonen\AIML-At-Work\04 GeinformeerdZoeken\obj\Debug\netcoreapp3.1\04 GeinformeerdZoeken.pdb
+C:\Users\elkeb\source\repos\ElkeBoonen\AIML-At-Work\04 GeinformeerdZoeken\obj\Debug\netcoreapp3.1\04 GeinformeerdZoeken.genruntimeconfig.cache
