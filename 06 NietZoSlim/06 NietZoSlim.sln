@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06 NietZoSlim", "06 NietZoSlim.csproj", "{0D4FC6D6-EA8A-425F-939F-A7704EFEE04F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D4FC6D6-EA8A-425F-939F-A7704EFEE04F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D4FC6D6-EA8A-425F-939F-A7704EFEE04F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D4FC6D6-EA8A-425F-939F-A7704EFEE04F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D4FC6D6-EA8A-425F-939F-A7704EFEE04F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {205C1333-178F-4FF9-9710-7B51495C3EE1}
+	EndGlobalSection
+EndGlobal
