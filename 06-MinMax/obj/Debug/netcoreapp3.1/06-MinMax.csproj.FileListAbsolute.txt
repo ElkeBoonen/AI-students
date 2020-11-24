@@ -1,0 +1,13 @@
+C:\Users\elkeb\source\repos\ElkeBoonen\AIML-At-Work\06-MinMax\bin\Debug\netcoreapp3.1\06-MinMax.exe
+C:\Users\elkeb\source\repos\ElkeBoonen\AIML-At-Work\06-MinMax\bin\Debug\netcoreapp3.1\06-MinMax.deps.json
+C:\Users\elkeb\source\repos\ElkeBoonen\AIML-At-Work\06-MinMax\bin\Debug\netcoreapp3.1\06-MinMax.runtimeconfig.json
+C:\Users\elkeb\source\repos\ElkeBoonen\AIML-At-Work\06-MinMax\bin\Debug\netcoreapp3.1\06-MinMax.runtimeconfig.dev.json
+C:\Users\elkeb\source\repos\ElkeBoonen\AIML-At-Work\06-MinMax\bin\Debug\netcoreapp3.1\06-MinMax.dll
+C:\Users\elkeb\source\repos\ElkeBoonen\AIML-At-Work\06-MinMax\bin\Debug\netcoreapp3.1\06-MinMax.pdb
+C:\Users\elkeb\source\repos\ElkeBoonen\AIML-At-Work\06-MinMax\obj\Debug\netcoreapp3.1\06-MinMax.csprojAssemblyReference.cache
+C:\Users\elkeb\source\repos\ElkeBoonen\AIML-At-Work\06-MinMax\obj\Debug\netcoreapp3.1\06-MinMax.AssemblyInfoInputs.cache
+C:\Users\elkeb\source\repos\ElkeBoonen\AIML-At-Work\06-MinMax\obj\Debug\netcoreapp3.1\06-MinMax.AssemblyInfo.cs
+C:\Users\elkeb\source\repos\ElkeBoonen\AIML-At-Work\06-MinMax\obj\Debug\netcoreapp3.1\06-MinMax.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\source\repos\ElkeBoonen\AIML-At-Work\06-MinMax\obj\Debug\netcoreapp3.1\06-MinMax.dll
+C:\Users\elkeb\source\repos\ElkeBoonen\AIML-At-Work\06-MinMax\obj\Debug\netcoreapp3.1\06-MinMax.pdb
+C:\Users\elkeb\source\repos\ElkeBoonen\AIML-At-Work\06-MinMax\obj\Debug\netcoreapp3.1\06-MinMax.genruntimeconfig.cache
