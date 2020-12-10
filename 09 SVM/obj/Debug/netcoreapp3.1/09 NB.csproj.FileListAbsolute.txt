@@ -1,0 +1,16 @@
+C:\Users\elkeb\source\repos\ElkeBoonen\AIML-At-Work\09 SVM\bin\Debug\netcoreapp3.1\09 NB.exe
+C:\Users\elkeb\source\repos\ElkeBoonen\AIML-At-Work\09 SVM\bin\Debug\netcoreapp3.1\data.txt
+C:\Users\elkeb\source\repos\ElkeBoonen\AIML-At-Work\09 SVM\bin\Debug\netcoreapp3.1\09 NB.deps.json
+C:\Users\elkeb\source\repos\ElkeBoonen\AIML-At-Work\09 SVM\bin\Debug\netcoreapp3.1\09 NB.runtimeconfig.json
+C:\Users\elkeb\source\repos\ElkeBoonen\AIML-At-Work\09 SVM\bin\Debug\netcoreapp3.1\09 NB.runtimeconfig.dev.json
+C:\Users\elkeb\source\repos\ElkeBoonen\AIML-At-Work\09 SVM\bin\Debug\netcoreapp3.1\09 NB.dll
+C:\Users\elkeb\source\repos\ElkeBoonen\AIML-At-Work\09 SVM\bin\Debug\netcoreapp3.1\09 NB.pdb
+C:\Users\elkeb\source\repos\ElkeBoonen\AIML-At-Work\09 SVM\obj\Debug\netcoreapp3.1\09 NB.csprojAssemblyReference.cache
+C:\Users\elkeb\source\repos\ElkeBoonen\AIML-At-Work\09 SVM\obj\Debug\netcoreapp3.1\09 NB.AssemblyInfoInputs.cache
+C:\Users\elkeb\source\repos\ElkeBoonen\AIML-At-Work\09 SVM\obj\Debug\netcoreapp3.1\09 NB.AssemblyInfo.cs
+C:\Users\elkeb\source\repos\ElkeBoonen\AIML-At-Work\09 SVM\obj\Debug\netcoreapp3.1\09 NB.dll
+C:\Users\elkeb\source\repos\ElkeBoonen\AIML-At-Work\09 SVM\obj\Debug\netcoreapp3.1\09 NB.pdb
+C:\Users\elkeb\source\repos\ElkeBoonen\AIML-At-Work\09 SVM\obj\Debug\netcoreapp3.1\09 NB.genruntimeconfig.cache
+C:\Users\elkeb\source\repos\ElkeBoonen\AIML-At-Work\09 SVM\bin\Debug\netcoreapp3.1\StemmersNet.dll
+C:\Users\elkeb\source\repos\ElkeBoonen\AIML-At-Work\09 SVM\obj\Debug\netcoreapp3.1\09 NB.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\source\repos\ElkeBoonen\AIML-At-Work\09 SVM\obj\Debug\netcoreapp3.1\09 NB.csproj.CopyComplete
