@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Users\elkeb\OneDrive - Thomas More\Git\AIML-At-Work\Random Art\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-09-25T13:53:19.993</Modified>
+      <Modified>2021-09-26T13:24:01.737</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\elkeb\OneDrive - Thomas More\Git\AIML-At-Work\Random Art\bin\x86\Debug\Random Art.exe">
       <PackagePath>entrypoint\Random Art.exe</PackagePath>
-      <Modified>2021-09-25T13:53:19.237</Modified>
+      <Modified>2021-09-26T13:24:00.192</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.12\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
       <PackagePath>System.Runtime.dll</PackagePath>
@@ -94,7 +94,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\elkeb\OneDrive - Thomas More\Git\AIML-At-Work\Random Art\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2021-09-25T13:53:19.041</Modified>
+      <Modified>2021-09-26T13:23:59.910</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.19041.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -106,7 +106,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\elkeb\OneDrive - Thomas More\Git\AIML-At-Work\Random Art\bin\x86\Debug\Core\Random Art.exe">
       <PackagePath>Random Art.exe</PackagePath>
-      <Modified>2021-09-25T13:53:19.979</Modified>
+      <Modified>2021-09-26T13:24:01.714</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
