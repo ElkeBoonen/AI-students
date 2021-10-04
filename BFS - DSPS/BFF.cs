@@ -24,6 +24,26 @@ namespace BFS___DSPS
             graph[person2].Add(person1);
         }
 
+        public string[] Connections(string start)
+        {
+            Dictionary<string, bool> visited = new Dictionary<string, bool>();
+            Queue<string> queue = new Queue<string>();
+
+            queue.Enqueue(start);
+            string person;
+            while (queue.Count != 0)
+            {
+                person = queue.Dequeue();
+                visited[person] = true;
+
+                foreach (var friend in graph[person])
+                {
+                    if (!visited.ContainsKey(friend)) queue.Enqueue(friend);
+                }
+            }
+            return visited.Keys.ToArray();
+        }
+
         public override string ToString()
         {
             string s = "";
