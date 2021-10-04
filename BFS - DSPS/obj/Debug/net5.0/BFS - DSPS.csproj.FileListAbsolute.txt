@@ -1,0 +1,17 @@
+C:\Users\elkeb\OneDrive - Thomas More\Git\AIML-At-Work\BFS - DSPS\bin\Debug\net5.0\input1.txt
+C:\Users\elkeb\OneDrive - Thomas More\Git\AIML-At-Work\BFS - DSPS\bin\Debug\net5.0\BFS - DSPS.exe
+C:\Users\elkeb\OneDrive - Thomas More\Git\AIML-At-Work\BFS - DSPS\bin\Debug\net5.0\BFS - DSPS.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\AIML-At-Work\BFS - DSPS\bin\Debug\net5.0\BFS - DSPS.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\AIML-At-Work\BFS - DSPS\bin\Debug\net5.0\BFS - DSPS.runtimeconfig.dev.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\AIML-At-Work\BFS - DSPS\bin\Debug\net5.0\BFS - DSPS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\AIML-At-Work\BFS - DSPS\bin\Debug\net5.0\ref\BFS - DSPS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\AIML-At-Work\BFS - DSPS\bin\Debug\net5.0\BFS - DSPS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\AIML-At-Work\BFS - DSPS\obj\Debug\net5.0\BFS - DSPS.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\AIML-At-Work\BFS - DSPS\obj\Debug\net5.0\BFS - DSPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Git\AIML-At-Work\BFS - DSPS\obj\Debug\net5.0\BFS - DSPS.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\AIML-At-Work\BFS - DSPS\obj\Debug\net5.0\BFS - DSPS.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Git\AIML-At-Work\BFS - DSPS\obj\Debug\net5.0\BFS - DSPS.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\AIML-At-Work\BFS - DSPS\obj\Debug\net5.0\BFS - DSPS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\AIML-At-Work\BFS - DSPS\obj\Debug\net5.0\ref\BFS - DSPS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\AIML-At-Work\BFS - DSPS\obj\Debug\net5.0\BFS - DSPS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\AIML-At-Work\BFS - DSPS\obj\Debug\net5.0\BFS - DSPS.genruntimeconfig.cache
