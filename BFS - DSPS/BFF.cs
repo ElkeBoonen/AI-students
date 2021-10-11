@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BFS___DSPS
 {
-    class BFF
+    public class BFF
     {
         Dictionary<string, List<string>> graph;
 
