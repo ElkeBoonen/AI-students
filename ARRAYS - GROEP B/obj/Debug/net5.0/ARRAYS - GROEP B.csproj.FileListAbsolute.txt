@@ -1,0 +1,15 @@
+C:\Users\elkeb\OneDrive - Thomas More\Git\AIML-At-Work\ARRAYS - GROEP B\bin\Debug\net5.0\ARRAYS - GROEP B.exe
+C:\Users\elkeb\OneDrive - Thomas More\Git\AIML-At-Work\ARRAYS - GROEP B\bin\Debug\net5.0\ARRAYS - GROEP B.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\AIML-At-Work\ARRAYS - GROEP B\bin\Debug\net5.0\ARRAYS - GROEP B.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\AIML-At-Work\ARRAYS - GROEP B\bin\Debug\net5.0\ARRAYS - GROEP B.runtimeconfig.dev.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\AIML-At-Work\ARRAYS - GROEP B\bin\Debug\net5.0\ARRAYS - GROEP B.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\AIML-At-Work\ARRAYS - GROEP B\bin\Debug\net5.0\ref\ARRAYS - GROEP B.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\AIML-At-Work\ARRAYS - GROEP B\bin\Debug\net5.0\ARRAYS - GROEP B.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\AIML-At-Work\ARRAYS - GROEP B\obj\Debug\net5.0\ARRAYS - GROEP B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Git\AIML-At-Work\ARRAYS - GROEP B\obj\Debug\net5.0\ARRAYS - GROEP B.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\AIML-At-Work\ARRAYS - GROEP B\obj\Debug\net5.0\ARRAYS - GROEP B.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Git\AIML-At-Work\ARRAYS - GROEP B\obj\Debug\net5.0\ARRAYS - GROEP B.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\AIML-At-Work\ARRAYS - GROEP B\obj\Debug\net5.0\ARRAYS - GROEP B.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\AIML-At-Work\ARRAYS - GROEP B\obj\Debug\net5.0\ref\ARRAYS - GROEP B.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\AIML-At-Work\ARRAYS - GROEP B\obj\Debug\net5.0\ARRAYS - GROEP B.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\AIML-At-Work\ARRAYS - GROEP B\obj\Debug\net5.0\ARRAYS - GROEP B.genruntimeconfig.cache

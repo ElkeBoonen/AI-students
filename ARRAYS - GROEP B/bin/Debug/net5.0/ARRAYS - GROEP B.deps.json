@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ARRAYS - GROEP B/1.0.0": {
+        "runtime": {
+          "ARRAYS - GROEP B.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ARRAYS - GROEP B/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
