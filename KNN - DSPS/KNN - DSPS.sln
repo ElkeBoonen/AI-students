@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KNN - DSPS", "KNN - DSPS.csproj", "{B637060C-5247-4A3F-98EE-7E4A7E451340}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B637060C-5247-4A3F-98EE-7E4A7E451340}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B637060C-5247-4A3F-98EE-7E4A7E451340}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B637060C-5247-4A3F-98EE-7E4A7E451340}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B637060C-5247-4A3F-98EE-7E4A7E451340}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A607448-6A11-43D6-B74C-44F70F374626}
+	EndGlobalSection
+EndGlobal

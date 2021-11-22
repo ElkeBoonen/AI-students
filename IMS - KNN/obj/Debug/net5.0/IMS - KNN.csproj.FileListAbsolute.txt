@@ -1,0 +1,17 @@
+C:\Users\elkeb\OneDrive - Thomas More\Git\AIML-At-Work\IMS - KNN\bin\Debug\net5.0\IMS - KNN.exe
+C:\Users\elkeb\OneDrive - Thomas More\Git\AIML-At-Work\IMS - KNN\bin\Debug\net5.0\iris.dat
+C:\Users\elkeb\OneDrive - Thomas More\Git\AIML-At-Work\IMS - KNN\bin\Debug\net5.0\IMS - KNN.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\AIML-At-Work\IMS - KNN\bin\Debug\net5.0\IMS - KNN.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\AIML-At-Work\IMS - KNN\bin\Debug\net5.0\IMS - KNN.runtimeconfig.dev.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\AIML-At-Work\IMS - KNN\bin\Debug\net5.0\IMS - KNN.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\AIML-At-Work\IMS - KNN\bin\Debug\net5.0\ref\IMS - KNN.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\AIML-At-Work\IMS - KNN\bin\Debug\net5.0\IMS - KNN.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\AIML-At-Work\IMS - KNN\obj\Debug\net5.0\IMS - KNN.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\AIML-At-Work\IMS - KNN\obj\Debug\net5.0\IMS - KNN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Git\AIML-At-Work\IMS - KNN\obj\Debug\net5.0\IMS - KNN.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\AIML-At-Work\IMS - KNN\obj\Debug\net5.0\IMS - KNN.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Git\AIML-At-Work\IMS - KNN\obj\Debug\net5.0\IMS - KNN.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\AIML-At-Work\IMS - KNN\obj\Debug\net5.0\IMS - KNN.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\AIML-At-Work\IMS - KNN\obj\Debug\net5.0\ref\IMS - KNN.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\AIML-At-Work\IMS - KNN\obj\Debug\net5.0\IMS - KNN.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\AIML-At-Work\IMS - KNN\obj\Debug\net5.0\IMS - KNN.genruntimeconfig.cache

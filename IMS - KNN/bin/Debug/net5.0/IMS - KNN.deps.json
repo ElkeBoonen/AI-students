@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "IMS - KNN/1.0.0": {
+        "runtime": {
+          "IMS - KNN.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IMS - KNN/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
