@@ -1,0 +1,16 @@
+C:\Users\elkeb\OneDrive - Thomas More\Git\AIML-At-Work\ANN - IMS\bin\Debug\net5.0\ANN - IMS.exe
+C:\Users\elkeb\OneDrive - Thomas More\Git\AIML-At-Work\ANN - IMS\bin\Debug\net5.0\ANN - IMS.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\AIML-At-Work\ANN - IMS\bin\Debug\net5.0\ANN - IMS.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\AIML-At-Work\ANN - IMS\bin\Debug\net5.0\ANN - IMS.runtimeconfig.dev.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\AIML-At-Work\ANN - IMS\bin\Debug\net5.0\ANN - IMS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\AIML-At-Work\ANN - IMS\bin\Debug\net5.0\ref\ANN - IMS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\AIML-At-Work\ANN - IMS\bin\Debug\net5.0\ANN - IMS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\AIML-At-Work\ANN - IMS\obj\Debug\net5.0\ANN - IMS.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\AIML-At-Work\ANN - IMS\obj\Debug\net5.0\ANN - IMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Git\AIML-At-Work\ANN - IMS\obj\Debug\net5.0\ANN - IMS.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\AIML-At-Work\ANN - IMS\obj\Debug\net5.0\ANN - IMS.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Git\AIML-At-Work\ANN - IMS\obj\Debug\net5.0\ANN - IMS.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\AIML-At-Work\ANN - IMS\obj\Debug\net5.0\ANN - IMS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\AIML-At-Work\ANN - IMS\obj\Debug\net5.0\ref\ANN - IMS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\AIML-At-Work\ANN - IMS\obj\Debug\net5.0\ANN - IMS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\AIML-At-Work\ANN - IMS\obj\Debug\net5.0\ANN - IMS.genruntimeconfig.cache

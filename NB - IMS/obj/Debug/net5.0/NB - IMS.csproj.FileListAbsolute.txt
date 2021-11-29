@@ -15,3 +15,4 @@ C:\Users\elkeb\OneDrive - Thomas More\Git\AIML-At-Work\NB - IMS\obj\Debug\net5.0
 C:\Users\elkeb\OneDrive - Thomas More\Git\AIML-At-Work\NB - IMS\obj\Debug\net5.0\NB - IMS.pdb
 C:\Users\elkeb\OneDrive - Thomas More\Git\AIML-At-Work\NB - IMS\obj\Debug\net5.0\NB - IMS.genruntimeconfig.cache
 C:\Users\elkeb\OneDrive - Thomas More\Git\AIML-At-Work\NB - IMS\bin\Debug\net5.0\data.txt
+C:\Users\elkeb\OneDrive - Thomas More\Git\AIML-At-Work\NB - IMS\bin\Debug\net5.0\simpledata.txt
