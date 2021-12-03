@@ -70,6 +70,40 @@ namespace NN___DSPS
             return c;
         }
 
-        public static double[,] Transpose 
+        public static double[,] Transpose(double[,] matrix)
+        { 
+            int width = matrix.GetLength(0);
+            int height = matrix.GetLength(1);
+
+            double[,] newmatrix = new double[height, width];
+            for (int i = 0; i < width; i++)
+			{
+                for (int j = 0; j < height; j++)
+			    {
+                    newmatrix[j,i] = matrix[i,j];
+			    }
+			}
+            return newmatrix;
+        }
+
+        public static double[,] DotProduct(double[,] a, double[,] b)
+        { 
+            if (a.GetLength(1) != b.GetLength(0))
+                throw new Exception("Not same matrix dimensions!");
+
+            double[,] result = new double[a.GetLength(0), b.GetLength(1)];
+
+            for (int i = 0; i < result.GetLength(0); i++)
+            {
+                for (int j = 0; j < result.GetLength(1); j++)
+                {
+                    for (int k = 0; k < a.GetLength(1); k++)
+                    {
+                        result[i, j] += a[i, k] * b[k, j];
+                    }
+                }
+            }
+            return result;
+        }
     }
 }
