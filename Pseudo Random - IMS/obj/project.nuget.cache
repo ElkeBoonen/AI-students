@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "b6dFvidkcSneknBkD1DqCJ7QfMkd3v5nV1v9keWuHoTqyfr280gAgl3aw7DXaRTf3arkvx6bAW0r7rd1WpTEiQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\elkeb\\OneDrive - Thomas More\\Git\\AI-students\\Pseudo Random - IMS\\Pseudo Random - IMS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\elkeb\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\elkeb\\.nuget\\packages\\randomorg.coreapi\\1.0.1\\randomorg.coreapi.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
