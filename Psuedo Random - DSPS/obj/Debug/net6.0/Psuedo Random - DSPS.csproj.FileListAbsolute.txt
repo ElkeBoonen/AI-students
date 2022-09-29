@@ -1,0 +1,18 @@
+C:\Users\elkeb\OneDrive - Thomas More\Git\AI-students\Psuedo Random - DSPS\bin\Debug\net6.0\Psuedo Random - DSPS.exe
+C:\Users\elkeb\OneDrive - Thomas More\Git\AI-students\Psuedo Random - DSPS\bin\Debug\net6.0\Psuedo Random - DSPS.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\AI-students\Psuedo Random - DSPS\bin\Debug\net6.0\Psuedo Random - DSPS.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\AI-students\Psuedo Random - DSPS\bin\Debug\net6.0\Psuedo Random - DSPS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\AI-students\Psuedo Random - DSPS\bin\Debug\net6.0\Psuedo Random - DSPS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\AI-students\Psuedo Random - DSPS\obj\Debug\net6.0\Psuedo Random - DSPS.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\AI-students\Psuedo Random - DSPS\obj\Debug\net6.0\Psuedo Random - DSPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Git\AI-students\Psuedo Random - DSPS\obj\Debug\net6.0\Psuedo Random - DSPS.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\AI-students\Psuedo Random - DSPS\obj\Debug\net6.0\Psuedo Random - DSPS.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Git\AI-students\Psuedo Random - DSPS\obj\Debug\net6.0\Psuedo Random - DSPS.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\AI-students\Psuedo Random - DSPS\obj\Debug\net6.0\Psuedo Random - DSPS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\AI-students\Psuedo Random - DSPS\obj\Debug\net6.0\refint\Psuedo Random - DSPS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\AI-students\Psuedo Random - DSPS\obj\Debug\net6.0\Psuedo Random - DSPS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\AI-students\Psuedo Random - DSPS\obj\Debug\net6.0\Psuedo Random - DSPS.genruntimeconfig.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\AI-students\Psuedo Random - DSPS\obj\Debug\net6.0\ref\Psuedo Random - DSPS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\AI-students\Psuedo Random - DSPS\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\AI-students\Psuedo Random - DSPS\bin\Debug\net6.0\RandomOrg.CoreApi.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\AI-students\Psuedo Random - DSPS\obj\Debug\net6.0\Psuedo Random - DSPS.csproj.CopyComplete
