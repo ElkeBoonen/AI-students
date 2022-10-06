@@ -1,0 +1,21 @@
+C:\Users\elkeb\OneDrive - Thomas More\Git\AI-students\Finding friends - DSPS\bin\Debug\net6.0\data\input1.txt
+C:\Users\elkeb\OneDrive - Thomas More\Git\AI-students\Finding friends - DSPS\bin\Debug\net6.0\data\input2.txt
+C:\Users\elkeb\OneDrive - Thomas More\Git\AI-students\Finding friends - DSPS\bin\Debug\net6.0\data\input3.txt
+C:\Users\elkeb\OneDrive - Thomas More\Git\AI-students\Finding friends - DSPS\bin\Debug\net6.0\data\input4.txt
+C:\Users\elkeb\OneDrive - Thomas More\Git\AI-students\Finding friends - DSPS\bin\Debug\net6.0\data\input5.txt
+C:\Users\elkeb\OneDrive - Thomas More\Git\AI-students\Finding friends - DSPS\bin\Debug\net6.0\data\input6.txt
+C:\Users\elkeb\OneDrive - Thomas More\Git\AI-students\Finding friends - DSPS\bin\Debug\net6.0\Finding friends - DSPS.exe
+C:\Users\elkeb\OneDrive - Thomas More\Git\AI-students\Finding friends - DSPS\bin\Debug\net6.0\Finding friends - DSPS.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\AI-students\Finding friends - DSPS\bin\Debug\net6.0\Finding friends - DSPS.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\AI-students\Finding friends - DSPS\bin\Debug\net6.0\Finding friends - DSPS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\AI-students\Finding friends - DSPS\bin\Debug\net6.0\Finding friends - DSPS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\AI-students\Finding friends - DSPS\obj\Debug\net6.0\Finding friends - DSPS.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\AI-students\Finding friends - DSPS\obj\Debug\net6.0\Finding friends - DSPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Git\AI-students\Finding friends - DSPS\obj\Debug\net6.0\Finding friends - DSPS.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\AI-students\Finding friends - DSPS\obj\Debug\net6.0\Finding friends - DSPS.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Git\AI-students\Finding friends - DSPS\obj\Debug\net6.0\Finding friends - DSPS.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\AI-students\Finding friends - DSPS\obj\Debug\net6.0\Finding friends - DSPS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\AI-students\Finding friends - DSPS\obj\Debug\net6.0\refint\Finding friends - DSPS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\AI-students\Finding friends - DSPS\obj\Debug\net6.0\Finding friends - DSPS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\AI-students\Finding friends - DSPS\obj\Debug\net6.0\Finding friends - DSPS.genruntimeconfig.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\AI-students\Finding friends - DSPS\obj\Debug\net6.0\ref\Finding friends - DSPS.dll
