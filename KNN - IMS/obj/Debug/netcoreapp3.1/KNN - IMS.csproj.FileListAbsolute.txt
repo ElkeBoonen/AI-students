@@ -1,0 +1,16 @@
+C:\Users\elkeb\OneDrive - Thomas More\Git\AI-students\KNN - IMS\bin\Debug\netcoreapp3.1\iris.dat
+C:\Users\elkeb\OneDrive - Thomas More\Git\AI-students\KNN - IMS\bin\Debug\netcoreapp3.1\KNN - IMS.exe
+C:\Users\elkeb\OneDrive - Thomas More\Git\AI-students\KNN - IMS\bin\Debug\netcoreapp3.1\KNN - IMS.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\AI-students\KNN - IMS\bin\Debug\netcoreapp3.1\KNN - IMS.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\AI-students\KNN - IMS\bin\Debug\netcoreapp3.1\KNN - IMS.runtimeconfig.dev.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\AI-students\KNN - IMS\bin\Debug\netcoreapp3.1\KNN - IMS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\AI-students\KNN - IMS\bin\Debug\netcoreapp3.1\KNN - IMS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\AI-students\KNN - IMS\obj\Debug\netcoreapp3.1\KNN - IMS.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\AI-students\KNN - IMS\obj\Debug\netcoreapp3.1\KNN - IMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Git\AI-students\KNN - IMS\obj\Debug\netcoreapp3.1\KNN - IMS.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\AI-students\KNN - IMS\obj\Debug\netcoreapp3.1\KNN - IMS.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Git\AI-students\KNN - IMS\obj\Debug\netcoreapp3.1\KNN - IMS.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\AI-students\KNN - IMS\obj\Debug\netcoreapp3.1\KNN - IMS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\AI-students\KNN - IMS\obj\Debug\netcoreapp3.1\KNN - IMS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\AI-students\KNN - IMS\obj\Debug\netcoreapp3.1\KNN - IMS.genruntimeconfig.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\AI-students\KNN - IMS\bin\Debug\netcoreapp3.1\transfusion.csv
