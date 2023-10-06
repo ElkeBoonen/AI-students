@@ -9,6 +9,8 @@
             Console.WriteLine("Slope: " + chimps.Slope);
             Console.WriteLine("Intercept: "+ chimps.Intercept);
             Console.WriteLine("Predict 4 = " + chimps.Predict(4));
+            Console.WriteLine("R² " + chimps.RSquared());
+
         }
     }
 }

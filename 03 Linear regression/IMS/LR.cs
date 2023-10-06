@@ -49,5 +49,23 @@ namespace IMS
         { 
             return Slope * x + Intercept;
         }
+
+        public double RSquared()
+        {
+            double sum_xy = 0, sum_x = 0, sum_y = 0, sum_x2 = 0, sum_y2=0;
+            for (int i = 0; i < XValues.Length; i++)
+            {
+                sum_xy += XValues[i] * YValues[i];
+                sum_x += XValues[i];
+                sum_y += YValues[i];
+                sum_x2 += Math.Pow(XValues[i], 2);
+                sum_y2 += Math.Pow(YValues[i], 2);
+            }
+            double num = n * sum_xy - sum_x * sum_y;
+            double den = Math.Sqrt(n * sum_x2 - sum_x * sum_x) * Math.Sqrt(n * sum_y2 - sum_y * sum_y);
+
+            return Math.Pow(num/den,2);
+
+        }
     }
 }
