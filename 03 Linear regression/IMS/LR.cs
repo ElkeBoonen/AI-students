@@ -13,19 +13,37 @@ namespace IMS
         public double Slope { get; private set; }
         public double Intercept { get; private set; }
 
+        private int n = 0;
+
         public LR(int[] xvalues, int[] yvalues)
         {
             XValues = xvalues;
             YValues = yvalues;
-            Slope = CalculateSlope();
-            Intercept = CalculateIntercept();
+            n = XValues.Length;
+
+            Slope = Math.Round(CalculateSlope(),4);
+            Intercept = Math.Round(CalculateIntercept(),4);
         }
 
         private double CalculateSlope()
-        { }
+        {
+            double sum_xy = 0 , sum_x = 0, sum_y = 0, sum_x2 = 0;
+            for (int i = 0; i < XValues.Length; i++)
+            {
+                sum_xy += XValues[i] * YValues[i];
+                sum_x += XValues[i];
+                sum_y += YValues[i];
+                sum_x2 += Math.Pow(XValues[i], 2);
+            }
+            return (n * sum_xy - sum_x * sum_y) / (n * sum_x2 - Math.Pow(sum_x, 2));
+        }
 
         private double CalculateIntercept()
-        { }
+        {
+            double sum_x = XValues.Sum();
+            double sum_y = YValues.Sum();
+            return (sum_y - Slope * sum_x) / n;
+        }
 
         public double Predict(int x)
         { 
