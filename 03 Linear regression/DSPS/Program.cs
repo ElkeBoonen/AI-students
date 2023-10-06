@@ -9,6 +9,7 @@
             Console.WriteLine(chimps.Slope());
             Console.WriteLine(chimps.Intercept());
             Console.WriteLine(chimps.Predict(4));
+            Console.WriteLine(chimps.RSquared());
         }
     }
 }
