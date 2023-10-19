@@ -77,7 +77,14 @@ namespace IMS
             return 0;
         }
 
-        //public int Predict(Node node, double x)
+        public int Predict(Node node, double x)
+        {
+            if (node.Label.HasValue) return node.Label.Value;
+
+            if (x > node.Threshold)
+                return Predict(node.Right, x);
+            return Predict(node.Left, x);
+        }
 
         public void Print(Node node, string indent = "", bool isLeftChild = true)
         {
