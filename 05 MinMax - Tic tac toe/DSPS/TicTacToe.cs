@@ -59,5 +59,25 @@ namespace DSPS
 
             return false;
         }
+
+        private List<int> EmptyPlaces()
+        { 
+            List<int> list = new List<int> ();
+            foreach (char c in board)
+            {
+                if (Char.IsDigit(c))
+                {
+                    list.Add(c - 48);
+                }
+            }
+            return list;
+        }
+
+        internal int NaivePlayer()
+        {
+            Random random = new Random();
+            int index = random.Next(0,EmptyPlaces().Count);
+            return EmptyPlaces()[index];
+        }
     }
 }
