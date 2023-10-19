@@ -11,7 +11,7 @@
 
             while (!ttt.Full())
             {
-                int position = ttt.NaivePlayer();
+                int position = ttt.SmartPlayer();
                 if (player == 'X')
                 {
                     Console.Write($"Place {player} on: ");

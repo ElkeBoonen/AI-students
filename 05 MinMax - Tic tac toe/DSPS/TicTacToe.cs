@@ -79,5 +79,59 @@ namespace DSPS
             int index = random.Next(0,EmptyPlaces().Count);
             return EmptyPlaces()[index];
         }
+
+        public int SmartPlayer()
+        {
+            int bestPosition = 0;
+            int bestScore = Int32.MinValue;
+
+            foreach (int position in EmptyPlaces())
+            {
+                char digit = board[position];
+                board[position] = 'O';
+                int score = MinMax(true);
+                board[position] = digit;
+
+                if (score > bestScore)
+                {
+                    bestScore = score;
+                    bestPosition = position;
+                }
+            }
+            return bestPosition;
+        }
+
+        private int MinMax(bool isMax)
+        {
+            if (Wins('0')) return 1;
+            if (Wins('X')) return -1;
+            if (Full()) return 0;
+
+            if (isMax)
+            {
+                int score = Int32.MaxValue;
+                foreach (int position in EmptyPlaces())
+                {
+                    char digit = board[position];
+                    board[position] = 'X';
+                    score = Math.Min(MinMax(!isMax),score);
+                    board[position] = digit;
+                }
+                return score;
+            }
+            else
+            {
+                int score = Int32.MinValue;
+                foreach (int position in EmptyPlaces())
+                {
+                    char digit = board[position];
+                    board[position] = 'O';
+                    score = Math.Max(MinMax(!isMax),score);
+                    board[position] = digit;
+                }
+                return score;
+
+            }
+        }
     }
 }
