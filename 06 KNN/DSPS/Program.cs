@@ -6,8 +6,7 @@
         {
             KNN knn = new KNN("iris.dat");
 
-            Console.WriteLine(knn.Classify(
-                    new double[] { 6.1, 2.6, 5.6, 1.4 }));
+            Console.WriteLine(knn.Classify(new double[] { 6.1, 2.6, 5.6, 1.4 }));
         }
     }
 }

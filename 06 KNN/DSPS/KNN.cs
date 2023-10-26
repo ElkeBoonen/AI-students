@@ -33,7 +33,7 @@ namespace DSPS
         private double CalculateDistance(double[] p, double[] q)
         { }
 
-        public string Predict(double[] array)
+        public string Classify(double[] array)
         { 
         
         }
