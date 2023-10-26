@@ -26,16 +26,55 @@ namespace DSPS
                 strings.RemoveAt(strings.Count - 1);
 
                 double[] features = Array.ConvertAll(strings.ToArray(), Convert.ToDouble);
+
                 Data[features] = value;
             }
         }
 
         private double CalculateDistance(double[] p, double[] q)
-        { }
+        {
+            if (p.Length != q.Length) throw new Exception("Different lenghts!");
+
+            double distance = 0;
+            for (int i = 0; i < p.Length; i++)
+            {
+                distance += Math.Pow(p[i]- q[i], 2);
+            }
+            return Math.Sqrt(distance);
+        }
 
         public string Classify(double[] array)
         { 
-        
+            double minDistance = int.MaxValue;
+            string closestClass = null;
+
+            foreach (var item in Data)
+            {
+                double distance = CalculateDistance(array, item.Key);
+                if (distance < minDistance)
+                {
+                    minDistance = distance;
+                    closestClass = item.Value;
+                }
+            }
+            return closestClass;
+        }
+
+        public string Classify(double[] array, int K)
+        {
+            double minDistance = int.MaxValue;
+            string closestClass = null;
+
+            foreach (var item in Data)
+            {
+                double distance = CalculateDistance(array, item.Key);
+                if (distance < minDistance)
+                {
+                    minDistance = distance;
+                    closestClass = item.Value;
+                }
+            }
+            return closestClass;
         }
     }
 }
