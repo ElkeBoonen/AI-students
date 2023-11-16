@@ -4,7 +4,9 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            NB nb = new NB("data.txt");
+            Console.WriteLine(nb.Predict("This is a test sentence, is this spam?"));
+            Console.WriteLine(nb.IsSpam("This is a test sentence, is this spam?"));
         }
     }
 }
