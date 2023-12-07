@@ -1,4 +1,7 @@
-﻿namespace DSPS
+﻿using SimpleTextGeneratorNN;
+using System.Text.RegularExpressions;
+
+namespace DSPS
 {
     public class SimpleTextGeneratorNN
     {
@@ -20,11 +23,47 @@
             }
         }
 
-        internal void Train(string v)
+        internal void Train(string text)
         {
-            throw new NotImplementedException();
+            Regex regex = new Regex("[^a-z]");
+            text = regex.Replace(text.ToLower(), "");
+
+            for (int e = 0; e < epochs; e++)
+            {
+                for (int i = 0; i < text.Length-1; i++)
+                {
+                    char current = text[i];
+                    char next = text[i+1];
+
+                    double[,] input = Convert(current);
+                    double[,] target = Convert(next);
+
+                    double[,] output = Matrix.DotProduct(input, Weights);
+                    double[,] error = Matrix.Substract(target, output);
+
+                    for (int j = 0; j < nrOfChars; j++)
+                    {
+                        for (int k = 0; k < nrOfChars; k++)
+                        {
+                            Weights[j, k] += learningRate * error[0, k] * input[0, j];
+                        }
+                    }
+                }
+            }
+
         }
-        internal char PredictNextChar(char nextChar)
+
+
+        private double[,] Convert(char c)
+        {
+            int index = c - 'a';
+            double[,] vector = new double[1,nrOfChars];
+            vector[0, index] = 1;
+            return vector;
+
+        }
+
+        public char PredictNextChar(char nextChar)
         {
             throw new NotImplementedException();
         }
