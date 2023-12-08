@@ -1,4 +1,5 @@
 ﻿using SimpleTextGeneratorNN;
+using System.ComponentModel.DataAnnotations;
 using System.Text.RegularExpressions;
 
 namespace DSPS
@@ -63,9 +64,22 @@ namespace DSPS
 
         }
 
-        public char PredictNextChar(char nextChar)
+        public char PredictNextChar(char c)
         {
-            throw new NotImplementedException();
+            double[,] input = Convert(c);
+            double[,] output = Matrix.DotProduct(input, Weights);
+
+            double max = double.MinValue;
+            int index = -1;
+            for (int i = 0; i < nrOfChars; i++)
+            {
+                if (max < output[0, i])
+                { 
+                    max = output[0, i];
+                    index = i;
+                }
+            }
+            return (char)(index + 'a');
         }
 
        

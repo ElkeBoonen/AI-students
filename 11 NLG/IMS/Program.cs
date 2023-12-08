@@ -1,20 +1,13 @@
-﻿using SimpleTextGeneratorNN;
-
-namespace DSPS
+﻿namespace IMS
 {
     internal class Program
     {
         static void Main(string[] args)
         {
             SimpleTextGeneratorNN textGenerator = new SimpleTextGeneratorNN();
-
             textGenerator.Train("The quick brown fox jumps over the lazy dog near the river bank.");
-            textGenerator.Train("dogs cats birds elephant elephants equal");
-
-
-            string generatedText = GenerateText(textGenerator, startChar: 'p', length: 5);
+            string generatedText = GenerateText(textGenerator, startChar: 'd', length: 5);
             Console.WriteLine($"Generated text: {generatedText}");
-
         }
 
         static string GenerateText(SimpleTextGeneratorNN nn, char startChar, int length)
