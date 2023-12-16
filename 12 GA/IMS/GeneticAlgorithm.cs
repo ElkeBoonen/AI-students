@@ -6,7 +6,7 @@
         public int ChromosoneLength { get; set; }
         public int NumberOfSelections { get; set; }
 
-        const int maxGenerations = 50;
+        const int maxGenerations = 300;
         Random random = new Random();
 
         public GeneticAlgorithm(int populationSize, int chromosoneLength, int numberOfSelections)
@@ -46,6 +46,22 @@
                 Console.WriteLine($"Chromosome: {individual}, Fitness: {CalculateFitness(individual)}");
         }
 
+        private string Mutation(string offspring1)
+        {
+            //int index = random.Next(ChromosoneLength);
+            //char[] mutation = offspring1.ToCharArray();
+            //mutation[index] = Convert.ToChar(random.Next(2).ToString());
+            //return String.Join("", mutation);
+            return offspring1;
+        }
+
+        private string Crossover(string v1, string v2)
+        {
+            int split = random.Next(ChromosoneLength);
+            string crossover = v1.Substring(0, split) + v2.Substring(split, ChromosoneLength-split);
+            return crossover;
+        }
+
         private int CalculateFitness(string individual)
         {
             int count = 0;
@@ -69,11 +85,15 @@
                 population[i] = population[min];
                 population[min] = b;
             }
-            
+            population.Reverse();
 
+            /*foreach (var item in population)
+            {
+                Console.Write(item + " ");
+            }
+            Console.WriteLine();*/
 
-            List<string> list = new List<string>();
-
+            return population.Take(NumberOfSelections).ToList();
         }
 
         private List<string> InitializePopulation()
