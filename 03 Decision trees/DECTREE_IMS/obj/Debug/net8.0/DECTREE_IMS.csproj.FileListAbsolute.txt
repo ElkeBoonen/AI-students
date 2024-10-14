@@ -1,0 +1,14 @@
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\DECTREE_IMS\bin\Debug\net8.0\DECTREE_IMS.exe
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\DECTREE_IMS\bin\Debug\net8.0\DECTREE_IMS.deps.json
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\DECTREE_IMS\bin\Debug\net8.0\DECTREE_IMS.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\DECTREE_IMS\bin\Debug\net8.0\DECTREE_IMS.dll
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\DECTREE_IMS\bin\Debug\net8.0\DECTREE_IMS.pdb
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\DECTREE_IMS\obj\Debug\net8.0\DECTREE_IMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\DECTREE_IMS\obj\Debug\net8.0\DECTREE_IMS.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\DECTREE_IMS\obj\Debug\net8.0\DECTREE_IMS.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\DECTREE_IMS\obj\Debug\net8.0\DECTREE_IMS.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\DECTREE_IMS\obj\Debug\net8.0\DECTREE_IMS.dll
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\DECTREE_IMS\obj\Debug\net8.0\refint\DECTREE_IMS.dll
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\DECTREE_IMS\obj\Debug\net8.0\DECTREE_IMS.pdb
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\DECTREE_IMS\obj\Debug\net8.0\DECTREE_IMS.genruntimeconfig.cache
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\DECTREE_IMS\obj\Debug\net8.0\ref\DECTREE_IMS.dll

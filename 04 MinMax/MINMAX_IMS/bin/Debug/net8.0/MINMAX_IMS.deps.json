@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MINMAX_IMS/1.0.0": {
+        "runtime": {
+          "MINMAX_IMS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MINMAX_IMS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

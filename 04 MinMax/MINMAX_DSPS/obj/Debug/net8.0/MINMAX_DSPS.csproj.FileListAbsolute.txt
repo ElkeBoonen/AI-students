@@ -1,0 +1,30 @@
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\AI-students\04 MinMax\MINMAX_DSPS\bin\Debug\net8.0\MINMAX_DSPS.exe
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\AI-students\04 MinMax\MINMAX_DSPS\bin\Debug\net8.0\MINMAX_DSPS.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\AI-students\04 MinMax\MINMAX_DSPS\bin\Debug\net8.0\MINMAX_DSPS.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\AI-students\04 MinMax\MINMAX_DSPS\bin\Debug\net8.0\MINMAX_DSPS.dll
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\AI-students\04 MinMax\MINMAX_DSPS\bin\Debug\net8.0\MINMAX_DSPS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\AI-students\04 MinMax\MINMAX_DSPS\obj\Debug\net8.0\MINMAX_DSPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\AI-students\04 MinMax\MINMAX_DSPS\obj\Debug\net8.0\MINMAX_DSPS.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\AI-students\04 MinMax\MINMAX_DSPS\obj\Debug\net8.0\MINMAX_DSPS.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\AI-students\04 MinMax\MINMAX_DSPS\obj\Debug\net8.0\MINMAX_DSPS.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\AI-students\04 MinMax\MINMAX_DSPS\obj\Debug\net8.0\MINMAX_DSPS.sourcelink.json
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\AI-students\04 MinMax\MINMAX_DSPS\obj\Debug\net8.0\MINMAX_DSPS.dll
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\AI-students\04 MinMax\MINMAX_DSPS\obj\Debug\net8.0\refint\MINMAX_DSPS.dll
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\AI-students\04 MinMax\MINMAX_DSPS\obj\Debug\net8.0\MINMAX_DSPS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\AI-students\04 MinMax\MINMAX_DSPS\obj\Debug\net8.0\MINMAX_DSPS.genruntimeconfig.cache
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\AI-students\04 MinMax\MINMAX_DSPS\obj\Debug\net8.0\ref\MINMAX_DSPS.dll
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\AI-students\04 MinMax\MINMAX_DSPS\obj\Debug\net8.0\MINMAX_DSPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\AI-students\04 MinMax\MINMAX_DSPS\obj\Debug\net8.0\MINMAX_DSPS.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\AI-students\04 MinMax\MINMAX_DSPS\obj\Debug\net8.0\MINMAX_DSPS.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\AI-students\04 MinMax\MINMAX_DSPS\obj\Debug\net8.0\MINMAX_DSPS.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\AI-students\04 MinMax\MINMAX_DSPS\obj\Debug\net8.0\MINMAX_DSPS.sourcelink.json
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\AI-students\04 MinMax\MINMAX_DSPS\obj\Debug\net8.0\MINMAX_DSPS.dll
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\AI-students\04 MinMax\MINMAX_DSPS\obj\Debug\net8.0\refint\MINMAX_DSPS.dll
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\AI-students\04 MinMax\MINMAX_DSPS\obj\Debug\net8.0\MINMAX_DSPS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\AI-students\04 MinMax\MINMAX_DSPS\bin\Debug\net8.0\MINMAX_DSPS.exe
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\AI-students\04 MinMax\MINMAX_DSPS\bin\Debug\net8.0\MINMAX_DSPS.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\AI-students\04 MinMax\MINMAX_DSPS\bin\Debug\net8.0\MINMAX_DSPS.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\AI-students\04 MinMax\MINMAX_DSPS\bin\Debug\net8.0\MINMAX_DSPS.dll
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\AI-students\04 MinMax\MINMAX_DSPS\bin\Debug\net8.0\MINMAX_DSPS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\AI-students\04 MinMax\MINMAX_DSPS\obj\Debug\net8.0\MINMAX_DSPS.genruntimeconfig.cache
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\AI-students\04 MinMax\MINMAX_DSPS\obj\Debug\net8.0\ref\MINMAX_DSPS.dll
