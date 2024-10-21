@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PREDICT_DSPS/1.0.0": {
+        "runtime": {
+          "PREDICT_DSPS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PREDICT_DSPS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
