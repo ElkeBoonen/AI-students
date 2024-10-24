@@ -1,0 +1,15 @@
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\AI-students\06 Matrix Factorization\MATRIX_IMS\bin\Debug\net8.0\MATRIX_IMS.exe
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\AI-students\06 Matrix Factorization\MATRIX_IMS\bin\Debug\net8.0\MATRIX_IMS.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\AI-students\06 Matrix Factorization\MATRIX_IMS\bin\Debug\net8.0\MATRIX_IMS.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\AI-students\06 Matrix Factorization\MATRIX_IMS\bin\Debug\net8.0\MATRIX_IMS.dll
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\AI-students\06 Matrix Factorization\MATRIX_IMS\bin\Debug\net8.0\MATRIX_IMS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\AI-students\06 Matrix Factorization\MATRIX_IMS\obj\Debug\net8.0\MATRIX_IMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\AI-students\06 Matrix Factorization\MATRIX_IMS\obj\Debug\net8.0\MATRIX_IMS.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\AI-students\06 Matrix Factorization\MATRIX_IMS\obj\Debug\net8.0\MATRIX_IMS.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\AI-students\06 Matrix Factorization\MATRIX_IMS\obj\Debug\net8.0\MATRIX_IMS.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\AI-students\06 Matrix Factorization\MATRIX_IMS\obj\Debug\net8.0\MATRIX_IMS.sourcelink.json
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\AI-students\06 Matrix Factorization\MATRIX_IMS\obj\Debug\net8.0\MATRIX_IMS.dll
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\AI-students\06 Matrix Factorization\MATRIX_IMS\obj\Debug\net8.0\refint\MATRIX_IMS.dll
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\AI-students\06 Matrix Factorization\MATRIX_IMS\obj\Debug\net8.0\MATRIX_IMS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\AI-students\06 Matrix Factorization\MATRIX_IMS\obj\Debug\net8.0\MATRIX_IMS.genruntimeconfig.cache
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\AI-students\06 Matrix Factorization\MATRIX_IMS\obj\Debug\net8.0\ref\MATRIX_IMS.dll
