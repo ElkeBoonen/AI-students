@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\elkeb\\OneDrive - Thomas More\\GitHub 24-25\\AI-students\\07 NB\\DSPS_NB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9CEFF425-75B9-4726-9102-75D16DE6F52D}|DSPS_NB.csproj|c:\\users\\elkeb\\onedrive - thomas more\\github 24-25\\ai-students\\07 nb\\dsps_nb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CEFF425-75B9-4726-9102-75D16DE6F52D}|DSPS_NB.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CEFF425-75B9-4726-9102-75D16DE6F52D}|DSPS_NB.csproj|c:\\users\\elkeb\\onedrive - thomas more\\github 24-25\\ai-students\\07 nb\\dsps_nb\\nb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CEFF425-75B9-4726-9102-75D16DE6F52D}|DSPS_NB.csproj|solutionrelative:nb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CEFF425-75B9-4726-9102-75D16DE6F52D}|DSPS_NB.csproj|c:\\users\\elkeb\\onedrive - thomas more\\github 24-25\\ai-students\\07 nb\\dsps_nb\\data.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9CEFF425-75B9-4726-9102-75D16DE6F52D}|DSPS_NB.csproj|solutionrelative:data.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "data.txt",
+              "DocumentMoniker": "C:\\Users\\elkeb\\OneDrive - Thomas More\\GitHub 24-25\\AI-students\\07 NB\\DSPS_NB\\data.txt",
+              "RelativeDocumentMoniker": "data.txt",
+              "ToolTip": "C:\\Users\\elkeb\\OneDrive - Thomas More\\GitHub 24-25\\AI-students\\07 NB\\DSPS_NB\\data.txt",
+              "RelativeToolTip": "data.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-07T08:08:33.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NB.cs",
+              "DocumentMoniker": "C:\\Users\\elkeb\\OneDrive - Thomas More\\GitHub 24-25\\AI-students\\07 NB\\DSPS_NB\\NB.cs",
+              "RelativeDocumentMoniker": "NB.cs",
+              "ToolTip": "C:\\Users\\elkeb\\OneDrive - Thomas More\\GitHub 24-25\\AI-students\\07 NB\\DSPS_NB\\NB.cs",
+              "RelativeToolTip": "NB.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAADgvyQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T08:07:54.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\elkeb\\OneDrive - Thomas More\\GitHub 24-25\\AI-students\\07 NB\\DSPS_NB\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\elkeb\\OneDrive - Thomas More\\GitHub 24-25\\AI-students\\07 NB\\DSPS_NB\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T08:06:44.979Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

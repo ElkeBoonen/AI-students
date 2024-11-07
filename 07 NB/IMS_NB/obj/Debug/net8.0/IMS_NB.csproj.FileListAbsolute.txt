@@ -1,0 +1,16 @@
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\AI-students\07 NB\IMS_NB\bin\Debug\net8.0\data.txt
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\AI-students\07 NB\IMS_NB\bin\Debug\net8.0\IMS_NB.exe
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\AI-students\07 NB\IMS_NB\bin\Debug\net8.0\IMS_NB.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\AI-students\07 NB\IMS_NB\bin\Debug\net8.0\IMS_NB.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\AI-students\07 NB\IMS_NB\bin\Debug\net8.0\IMS_NB.dll
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\AI-students\07 NB\IMS_NB\bin\Debug\net8.0\IMS_NB.pdb
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\AI-students\07 NB\IMS_NB\obj\Debug\net8.0\IMS_NB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\AI-students\07 NB\IMS_NB\obj\Debug\net8.0\IMS_NB.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\AI-students\07 NB\IMS_NB\obj\Debug\net8.0\IMS_NB.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\AI-students\07 NB\IMS_NB\obj\Debug\net8.0\IMS_NB.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\AI-students\07 NB\IMS_NB\obj\Debug\net8.0\IMS_NB.sourcelink.json
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\AI-students\07 NB\IMS_NB\obj\Debug\net8.0\IMS_NB.dll
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\AI-students\07 NB\IMS_NB\obj\Debug\net8.0\refint\IMS_NB.dll
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\AI-students\07 NB\IMS_NB\obj\Debug\net8.0\IMS_NB.pdb
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\AI-students\07 NB\IMS_NB\obj\Debug\net8.0\IMS_NB.genruntimeconfig.cache
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\AI-students\07 NB\IMS_NB\obj\Debug\net8.0\ref\IMS_NB.dll
