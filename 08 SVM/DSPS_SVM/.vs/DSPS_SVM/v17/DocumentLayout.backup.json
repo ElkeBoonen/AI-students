@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\elkeb\\OneDrive - Thomas More\\GitHub 24-25\\AI-students\\08 SVM\\DSPS_SVM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85D4E39B-FB73-4241-AAFE-905597EAA675}|DSPS_SVM.csproj|c:\\users\\elkeb\\onedrive - thomas more\\github 24-25\\ai-students\\08 svm\\dsps_svm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85D4E39B-FB73-4241-AAFE-905597EAA675}|DSPS_SVM.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D4E39B-FB73-4241-AAFE-905597EAA675}|DSPS_SVM.csproj|c:\\users\\elkeb\\onedrive - thomas more\\github 24-25\\ai-students\\08 svm\\dsps_svm\\large_svm_test_dataset.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{85D4E39B-FB73-4241-AAFE-905597EAA675}|DSPS_SVM.csproj|solutionrelative:large_svm_test_dataset.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D4E39B-FB73-4241-AAFE-905597EAA675}|DSPS_SVM.csproj|c:\\users\\elkeb\\onedrive - thomas more\\github 24-25\\ai-students\\08 svm\\dsps_svm\\simplesvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85D4E39B-FB73-4241-AAFE-905597EAA675}|DSPS_SVM.csproj|solutionrelative:simplesvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Large_SVM_Test_Dataset.csv",
+              "DocumentMoniker": "C:\\Users\\elkeb\\OneDrive - Thomas More\\GitHub 24-25\\AI-students\\08 SVM\\DSPS_SVM\\Large_SVM_Test_Dataset.csv",
+              "RelativeDocumentMoniker": "Large_SVM_Test_Dataset.csv",
+              "ToolTip": "C:\\Users\\elkeb\\OneDrive - Thomas More\\GitHub 24-25\\AI-students\\08 SVM\\DSPS_SVM\\Large_SVM_Test_Dataset.csv",
+              "RelativeToolTip": "Large_SVM_Test_Dataset.csv",
+              "ViewState": "AgIAAGoGAAAAAAAAAAAAAG8GAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-11-14T08:56:48.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SimpleSVM.cs",
+              "DocumentMoniker": "C:\\Users\\elkeb\\OneDrive - Thomas More\\GitHub 24-25\\AI-students\\08 SVM\\DSPS_SVM\\SimpleSVM.cs",
+              "RelativeDocumentMoniker": "SimpleSVM.cs",
+              "ToolTip": "C:\\Users\\elkeb\\OneDrive - Thomas More\\GitHub 24-25\\AI-students\\08 SVM\\DSPS_SVM\\SimpleSVM.cs",
+              "RelativeToolTip": "SimpleSVM.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowDUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T08:36:33.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\elkeb\\OneDrive - Thomas More\\GitHub 24-25\\AI-students\\08 SVM\\DSPS_SVM\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\elkeb\\OneDrive - Thomas More\\GitHub 24-25\\AI-students\\08 SVM\\DSPS_SVM\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAACIAAAAAAAAAAADwvysAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T08:09:23.622Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
