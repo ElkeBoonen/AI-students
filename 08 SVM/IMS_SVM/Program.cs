@@ -35,6 +35,7 @@
 
             (inputs, labels) = Read("Large_SVM_Test_Dataset.csv");
             //(double[][] inputs1, int[] labels1) = Read("Large_SVM_Test_Dataset.csv");
+            svm.Train(inputs, labels, 0.01, 1000);
 
             prediction = svm.Predict(new double[] { 1.1, 1.9, 3.2 });
             Console.WriteLine($"Prediction: {prediction}");
