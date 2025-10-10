@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\elkeb\\OneDrive - Thomas More\\Cursusmateriaal\\Artificial Intelligence\\Oefeningen\\AI-students\\03 LR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1713A2BE-4C43-4E24-8CB9-2DB383C3F8FA}|03 LR.csproj|c:\\users\\elkeb\\onedrive - thomas more\\cursusmateriaal\\artificial intelligence\\oefeningen\\ai-students\\03 lr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1713A2BE-4C43-4E24-8CB9-2DB383C3F8FA}|03 LR.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1713A2BE-4C43-4E24-8CB9-2DB383C3F8FA}|03 LR.csproj|c:\\users\\elkeb\\onedrive - thomas more\\cursusmateriaal\\artificial intelligence\\oefeningen\\ai-students\\03 lr\\linearregression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1713A2BE-4C43-4E24-8CB9-2DB383C3F8FA}|03 LR.csproj|solutionrelative:linearregression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1713A2BE-4C43-4E24-8CB9-2DB383C3F8FA}|03 LR.csproj|c:\\users\\elkeb\\onedrive - thomas more\\cursusmateriaal\\artificial intelligence\\oefeningen\\ai-students\\03 lr\\california_housing_dataset.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1713A2BE-4C43-4E24-8CB9-2DB383C3F8FA}|03 LR.csproj|solutionrelative:california_housing_dataset.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "california_housing_dataset.csv",
+              "DocumentMoniker": "C:\\Users\\elkeb\\OneDrive - Thomas More\\Cursusmateriaal\\Artificial Intelligence\\Oefeningen\\AI-students\\03 LR\\california_housing_dataset.csv",
+              "RelativeDocumentMoniker": "california_housing_dataset.csv",
+              "ToolTip": "C:\\Users\\elkeb\\OneDrive - Thomas More\\Cursusmateriaal\\Artificial Intelligence\\Oefeningen\\AI-students\\03 LR\\california_housing_dataset.csv",
+              "RelativeToolTip": "california_housing_dataset.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-10-03T08:12:00.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LinearRegression.cs",
+              "DocumentMoniker": "C:\\Users\\elkeb\\OneDrive - Thomas More\\Cursusmateriaal\\Artificial Intelligence\\Oefeningen\\AI-students\\03 LR\\LinearRegression.cs",
+              "RelativeDocumentMoniker": "LinearRegression.cs",
+              "ToolTip": "C:\\Users\\elkeb\\OneDrive - Thomas More\\Cursusmateriaal\\Artificial Intelligence\\Oefeningen\\AI-students\\03 LR\\LinearRegression.cs",
+              "RelativeToolTip": "LinearRegression.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAIwBwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T07:45:26.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\elkeb\\OneDrive - Thomas More\\Cursusmateriaal\\Artificial Intelligence\\Oefeningen\\AI-students\\03 LR\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\elkeb\\OneDrive - Thomas More\\Cursusmateriaal\\Artificial Intelligence\\Oefeningen\\AI-students\\03 LR\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T07:01:50.607Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

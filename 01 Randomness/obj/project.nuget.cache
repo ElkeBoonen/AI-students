@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "U01ts7W4zZM=",
+  "dgSpecHash": "lAujOS5CPGI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\elkeb\\OneDrive - Thomas More\\Cursusmateriaal\\Artificial Intelligence\\AI-Students - klas\\Randomness\\Randomness.csproj",
+  "projectFilePath": "C:\\Users\\elkeb\\OneDrive - Thomas More\\Cursusmateriaal\\Artificial Intelligence\\Oefeningen\\AI-students\\01 Randomness\\Randomness.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\elkeb\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\elkeb\\.nuget\\packages\\randomorg.coreapi\\1.1.0\\randomorg.coreapi.1.1.0.nupkg.sha512",

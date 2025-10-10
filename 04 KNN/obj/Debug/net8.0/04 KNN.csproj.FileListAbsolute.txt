@@ -1,0 +1,17 @@
+C:\Users\elkeb\OneDrive - Thomas More\Cursusmateriaal\Artificial Intelligence\Oefeningen\AI-students\04 KNN\bin\Debug\net8.0\iris.dat
+C:\Users\elkeb\OneDrive - Thomas More\Cursusmateriaal\Artificial Intelligence\Oefeningen\AI-students\04 KNN\bin\Debug\net8.0\04 KNN.exe
+C:\Users\elkeb\OneDrive - Thomas More\Cursusmateriaal\Artificial Intelligence\Oefeningen\AI-students\04 KNN\bin\Debug\net8.0\04 KNN.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Cursusmateriaal\Artificial Intelligence\Oefeningen\AI-students\04 KNN\bin\Debug\net8.0\04 KNN.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Cursusmateriaal\Artificial Intelligence\Oefeningen\AI-students\04 KNN\bin\Debug\net8.0\04 KNN.dll
+C:\Users\elkeb\OneDrive - Thomas More\Cursusmateriaal\Artificial Intelligence\Oefeningen\AI-students\04 KNN\bin\Debug\net8.0\04 KNN.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Cursusmateriaal\Artificial Intelligence\Oefeningen\AI-students\04 KNN\obj\Debug\net8.0\04 KNN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Cursusmateriaal\Artificial Intelligence\Oefeningen\AI-students\04 KNN\obj\Debug\net8.0\04 KNN.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Cursusmateriaal\Artificial Intelligence\Oefeningen\AI-students\04 KNN\obj\Debug\net8.0\04 KNN.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Cursusmateriaal\Artificial Intelligence\Oefeningen\AI-students\04 KNN\obj\Debug\net8.0\04 KNN.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Cursusmateriaal\Artificial Intelligence\Oefeningen\AI-students\04 KNN\obj\Debug\net8.0\04 KNN.sourcelink.json
+C:\Users\elkeb\OneDrive - Thomas More\Cursusmateriaal\Artificial Intelligence\Oefeningen\AI-students\04 KNN\obj\Debug\net8.0\04 KNN.dll
+C:\Users\elkeb\OneDrive - Thomas More\Cursusmateriaal\Artificial Intelligence\Oefeningen\AI-students\04 KNN\obj\Debug\net8.0\refint\04 KNN.dll
+C:\Users\elkeb\OneDrive - Thomas More\Cursusmateriaal\Artificial Intelligence\Oefeningen\AI-students\04 KNN\obj\Debug\net8.0\04 KNN.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Cursusmateriaal\Artificial Intelligence\Oefeningen\AI-students\04 KNN\obj\Debug\net8.0\04 KNN.genruntimeconfig.cache
+C:\Users\elkeb\OneDrive - Thomas More\Cursusmateriaal\Artificial Intelligence\Oefeningen\AI-students\04 KNN\obj\Debug\net8.0\ref\04 KNN.dll
+C:\Users\elkeb\OneDrive - Thomas More\Cursusmateriaal\Artificial Intelligence\Oefeningen\AI-students\04 KNN\bin\Debug\net8.0\fruit.csv

@@ -1,0 +1,17 @@
+C:\Users\elkeb\OneDrive - Thomas More\Cursusmateriaal\Artificial Intelligence\Oefeningen\AI-students\03 LR\bin\Debug\net8.0\03 LR.exe
+C:\Users\elkeb\OneDrive - Thomas More\Cursusmateriaal\Artificial Intelligence\Oefeningen\AI-students\03 LR\bin\Debug\net8.0\03 LR.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Cursusmateriaal\Artificial Intelligence\Oefeningen\AI-students\03 LR\bin\Debug\net8.0\03 LR.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Cursusmateriaal\Artificial Intelligence\Oefeningen\AI-students\03 LR\bin\Debug\net8.0\03 LR.dll
+C:\Users\elkeb\OneDrive - Thomas More\Cursusmateriaal\Artificial Intelligence\Oefeningen\AI-students\03 LR\bin\Debug\net8.0\03 LR.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Cursusmateriaal\Artificial Intelligence\Oefeningen\AI-students\03 LR\obj\Debug\net8.0\03 LR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Cursusmateriaal\Artificial Intelligence\Oefeningen\AI-students\03 LR\obj\Debug\net8.0\03 LR.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Cursusmateriaal\Artificial Intelligence\Oefeningen\AI-students\03 LR\obj\Debug\net8.0\03 LR.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Cursusmateriaal\Artificial Intelligence\Oefeningen\AI-students\03 LR\obj\Debug\net8.0\03 LR.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Cursusmateriaal\Artificial Intelligence\Oefeningen\AI-students\03 LR\obj\Debug\net8.0\03 LR.sourcelink.json
+C:\Users\elkeb\OneDrive - Thomas More\Cursusmateriaal\Artificial Intelligence\Oefeningen\AI-students\03 LR\obj\Debug\net8.0\03 LR.dll
+C:\Users\elkeb\OneDrive - Thomas More\Cursusmateriaal\Artificial Intelligence\Oefeningen\AI-students\03 LR\obj\Debug\net8.0\refint\03 LR.dll
+C:\Users\elkeb\OneDrive - Thomas More\Cursusmateriaal\Artificial Intelligence\Oefeningen\AI-students\03 LR\obj\Debug\net8.0\03 LR.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Cursusmateriaal\Artificial Intelligence\Oefeningen\AI-students\03 LR\obj\Debug\net8.0\03 LR.genruntimeconfig.cache
+C:\Users\elkeb\OneDrive - Thomas More\Cursusmateriaal\Artificial Intelligence\Oefeningen\AI-students\03 LR\obj\Debug\net8.0\ref\03 LR.dll
+C:\Users\elkeb\OneDrive - Thomas More\Cursusmateriaal\Artificial Intelligence\Oefeningen\AI-students\03 LR\bin\Debug\net8.0\california_housing_dataset.csv
+C:\Users\elkeb\OneDrive - Thomas More\Cursusmateriaal\Artificial Intelligence\Oefeningen\AI-students\03 LR\bin\Debug\net8.0\social-media.csv

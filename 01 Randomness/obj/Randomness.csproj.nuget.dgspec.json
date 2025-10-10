@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\elkeb\\OneDrive - Thomas More\\Cursusmateriaal\\Artificial Intelligence\\AI-Students - klas\\Randomness\\Randomness.csproj": {}
+    "C:\\Users\\elkeb\\OneDrive - Thomas More\\Cursusmateriaal\\Artificial Intelligence\\Oefeningen\\AI-students\\01 Randomness\\Randomness.csproj": {}
   },
   "projects": {
-    "C:\\Users\\elkeb\\OneDrive - Thomas More\\Cursusmateriaal\\Artificial Intelligence\\AI-Students - klas\\Randomness\\Randomness.csproj": {
+    "C:\\Users\\elkeb\\OneDrive - Thomas More\\Cursusmateriaal\\Artificial Intelligence\\Oefeningen\\AI-students\\01 Randomness\\Randomness.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\elkeb\\OneDrive - Thomas More\\Cursusmateriaal\\Artificial Intelligence\\AI-Students - klas\\Randomness\\Randomness.csproj",
+        "projectUniqueName": "C:\\Users\\elkeb\\OneDrive - Thomas More\\Cursusmateriaal\\Artificial Intelligence\\Oefeningen\\AI-students\\01 Randomness\\Randomness.csproj",
         "projectName": "Randomness",
-        "projectPath": "C:\\Users\\elkeb\\OneDrive - Thomas More\\Cursusmateriaal\\Artificial Intelligence\\AI-Students - klas\\Randomness\\Randomness.csproj",
+        "projectPath": "C:\\Users\\elkeb\\OneDrive - Thomas More\\Cursusmateriaal\\Artificial Intelligence\\Oefeningen\\AI-students\\01 Randomness\\Randomness.csproj",
         "packagesPath": "C:\\Users\\elkeb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\elkeb\\OneDrive - Thomas More\\Cursusmateriaal\\Artificial Intelligence\\AI-Students - klas\\Randomness\\obj\\",
+        "outputPath": "C:\\Users\\elkeb\\OneDrive - Thomas More\\Cursusmateriaal\\Artificial Intelligence\\Oefeningen\\AI-students\\01 Randomness\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\elkeb\\AppData\\Roaming\\NuGet\\NuGet.Config",
