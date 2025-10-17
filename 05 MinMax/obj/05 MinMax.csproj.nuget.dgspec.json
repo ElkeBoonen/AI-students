@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\elkeb\\OneDrive - Thomas More\\Cursusmateriaal\\Artificial Intelligence\\Oefeningen\\AI-students\\01 Randomness\\Randomness.csproj": {}
+    "C:\\Users\\elkeb\\OneDrive - Thomas More\\Cursusmateriaal\\Artificial Intelligence\\Oefeningen\\AI-students\\05 MinMax\\05 MinMax.csproj": {}
   },
   "projects": {
-    "C:\\Users\\elkeb\\OneDrive - Thomas More\\Cursusmateriaal\\Artificial Intelligence\\Oefeningen\\AI-students\\01 Randomness\\Randomness.csproj": {
+    "C:\\Users\\elkeb\\OneDrive - Thomas More\\Cursusmateriaal\\Artificial Intelligence\\Oefeningen\\AI-students\\05 MinMax\\05 MinMax.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\elkeb\\OneDrive - Thomas More\\Cursusmateriaal\\Artificial Intelligence\\Oefeningen\\AI-students\\01 Randomness\\Randomness.csproj",
-        "projectName": "Randomness",
-        "projectPath": "C:\\Users\\elkeb\\OneDrive - Thomas More\\Cursusmateriaal\\Artificial Intelligence\\Oefeningen\\AI-students\\01 Randomness\\Randomness.csproj",
+        "projectUniqueName": "C:\\Users\\elkeb\\OneDrive - Thomas More\\Cursusmateriaal\\Artificial Intelligence\\Oefeningen\\AI-students\\05 MinMax\\05 MinMax.csproj",
+        "projectName": "05 MinMax",
+        "projectPath": "C:\\Users\\elkeb\\OneDrive - Thomas More\\Cursusmateriaal\\Artificial Intelligence\\Oefeningen\\AI-students\\05 MinMax\\05 MinMax.csproj",
         "packagesPath": "C:\\Users\\elkeb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\elkeb\\OneDrive - Thomas More\\Cursusmateriaal\\Artificial Intelligence\\Oefeningen\\AI-students\\01 Randomness\\obj\\",
+        "outputPath": "C:\\Users\\elkeb\\OneDrive - Thomas More\\Cursusmateriaal\\Artificial Intelligence\\Oefeningen\\AI-students\\05 MinMax\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -49,12 +49,6 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "dependencies": {
-            "RandomOrg.CoreApi": {
-              "target": "Package",
-              "version": "[1.1.0, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
