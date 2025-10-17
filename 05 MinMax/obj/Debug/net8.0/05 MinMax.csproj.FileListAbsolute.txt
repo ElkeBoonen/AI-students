@@ -1,0 +1,15 @@
+C:\Users\elkeb\OneDrive - Thomas More\Cursusmateriaal\Artificial Intelligence\Oefeningen\AI-students\05 MinMax\bin\Debug\net8.0\05 MinMax.exe
+C:\Users\elkeb\OneDrive - Thomas More\Cursusmateriaal\Artificial Intelligence\Oefeningen\AI-students\05 MinMax\bin\Debug\net8.0\05 MinMax.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Cursusmateriaal\Artificial Intelligence\Oefeningen\AI-students\05 MinMax\bin\Debug\net8.0\05 MinMax.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Cursusmateriaal\Artificial Intelligence\Oefeningen\AI-students\05 MinMax\bin\Debug\net8.0\05 MinMax.dll
+C:\Users\elkeb\OneDrive - Thomas More\Cursusmateriaal\Artificial Intelligence\Oefeningen\AI-students\05 MinMax\bin\Debug\net8.0\05 MinMax.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Cursusmateriaal\Artificial Intelligence\Oefeningen\AI-students\05 MinMax\obj\Debug\net8.0\05 MinMax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Cursusmateriaal\Artificial Intelligence\Oefeningen\AI-students\05 MinMax\obj\Debug\net8.0\05 MinMax.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Cursusmateriaal\Artificial Intelligence\Oefeningen\AI-students\05 MinMax\obj\Debug\net8.0\05 MinMax.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Cursusmateriaal\Artificial Intelligence\Oefeningen\AI-students\05 MinMax\obj\Debug\net8.0\05 MinMax.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Cursusmateriaal\Artificial Intelligence\Oefeningen\AI-students\05 MinMax\obj\Debug\net8.0\05 MinMax.sourcelink.json
+C:\Users\elkeb\OneDrive - Thomas More\Cursusmateriaal\Artificial Intelligence\Oefeningen\AI-students\05 MinMax\obj\Debug\net8.0\05 MinMax.dll
+C:\Users\elkeb\OneDrive - Thomas More\Cursusmateriaal\Artificial Intelligence\Oefeningen\AI-students\05 MinMax\obj\Debug\net8.0\refint\05 MinMax.dll
+C:\Users\elkeb\OneDrive - Thomas More\Cursusmateriaal\Artificial Intelligence\Oefeningen\AI-students\05 MinMax\obj\Debug\net8.0\05 MinMax.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Cursusmateriaal\Artificial Intelligence\Oefeningen\AI-students\05 MinMax\obj\Debug\net8.0\05 MinMax.genruntimeconfig.cache
+C:\Users\elkeb\OneDrive - Thomas More\Cursusmateriaal\Artificial Intelligence\Oefeningen\AI-students\05 MinMax\obj\Debug\net8.0\ref\05 MinMax.dll

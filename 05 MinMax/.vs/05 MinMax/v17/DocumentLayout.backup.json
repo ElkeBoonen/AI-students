@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\elkeb\\OneDrive - Thomas More\\Cursusmateriaal\\Artificial Intelligence\\Oefeningen\\AI-students\\05 MinMax\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{961BE614-1CAA-4124-9D39-9799259A1C59}|05 MinMax.csproj|c:\\users\\elkeb\\onedrive - thomas more\\cursusmateriaal\\artificial intelligence\\oefeningen\\ai-students\\05 minmax\\tictactoe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{961BE614-1CAA-4124-9D39-9799259A1C59}|05 MinMax.csproj|solutionrelative:tictactoe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{961BE614-1CAA-4124-9D39-9799259A1C59}|05 MinMax.csproj|c:\\users\\elkeb\\onedrive - thomas more\\cursusmateriaal\\artificial intelligence\\oefeningen\\ai-students\\05 minmax\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{961BE614-1CAA-4124-9D39-9799259A1C59}|05 MinMax.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "TicTacToe.cs",
+              "DocumentMoniker": "C:\\Users\\elkeb\\OneDrive - Thomas More\\Cursusmateriaal\\Artificial Intelligence\\Oefeningen\\AI-students\\05 MinMax\\TicTacToe.cs",
+              "RelativeDocumentMoniker": "TicTacToe.cs",
+              "ToolTip": "C:\\Users\\elkeb\\OneDrive - Thomas More\\Cursusmateriaal\\Artificial Intelligence\\Oefeningen\\AI-students\\05 MinMax\\TicTacToe.cs",
+              "RelativeToolTip": "TicTacToe.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAqwEUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T07:14:06.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\elkeb\\OneDrive - Thomas More\\Cursusmateriaal\\Artificial Intelligence\\Oefeningen\\AI-students\\05 MinMax\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\elkeb\\OneDrive - Thomas More\\Cursusmateriaal\\Artificial Intelligence\\Oefeningen\\AI-students\\05 MinMax\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-17T07:13:22.397Z",
               "EditorCaption": ""
