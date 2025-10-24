@@ -13,7 +13,7 @@ namespace _05_MinMax
             _board = new char[9];
             for (int i = 0; i < 9; i++)
             {
-                _board[i] = i.ToString()[0];
+                this._board[i] = i.ToString()[0];
             }
         }
 
@@ -62,7 +62,8 @@ namespace _05_MinMax
             {
                 char c = _board[position];
                 _board[position] = 'O';
-                int score = MinMax(true);
+                Console.WriteLine(this);
+                int score = MinMax(false);
                 _board[position] = c;
 
                 if (maxScore < score)
@@ -94,15 +95,38 @@ namespace _05_MinMax
 
         private int MinMax(bool minmax)
         {
+            if (Full()) return 0;
+            if (Wins('O')) return 1;
+            if (Wins('X')) return -1;
 
-            // werk verder af!
             if (minmax)
             {
-                
+                int value = Int32.MinValue;
+                foreach (int position in EmptyPlaces())
+                {
+                    char c = _board[position];
+                    _board[position] = 'O';
+                    //Console.WriteLine(this);
+
+                    value = Math.Max(value, MinMax(false));
+                    _board[position] = c;
+                }
+                return value;
             }
             else
-            { 
+            {
 
+                int value = Int32.MaxValue;
+                foreach (int position in EmptyPlaces())
+                {
+                    char c = _board[position];
+                    _board[position] = 'X';
+                    //Console.WriteLine(this);
+
+                    value = Math.Min(value, MinMax(true));
+                    _board[position] = c;
+                }
+                return value;
             }
         }
 
