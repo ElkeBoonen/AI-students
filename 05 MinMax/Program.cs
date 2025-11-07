@@ -4,8 +4,14 @@
     {
         static void Main(string[] args)
         {
+            Random rd = new Random();
+            int starter = rd.Next(0, 2);
+
             TicTacToe ttt = new TicTacToe();
-            char player = 'X';
+            char player = ' ';
+            if (starter == 0) player = 'O';
+            else player = 'X';
+
             Console.WriteLine(ttt);
 
             while (!ttt.Full())

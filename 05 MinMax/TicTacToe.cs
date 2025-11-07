@@ -58,6 +58,11 @@ namespace _05_MinMax
             //return position 
             int bestPosition = 0, maxScore = int.MinValue;
 
+            Random rd = new Random();
+            List<int> pos = new List<int>();
+
+            if (EmptyPlaces().Count == 9) return rd.Next(0,9);
+
             foreach (int position in EmptyPlaces())
             {
                 char c = _board[position];
@@ -66,12 +71,22 @@ namespace _05_MinMax
                 int score = MinMax(false);
                 _board[position] = c;
 
+                Console.WriteLine(score);
+
+                if (score == 1) pos.Add(position);
+
                 if (maxScore < score)
                 {
                     maxScore = score;
                     bestPosition = position;
                 }
             }
+
+            if (pos.Count > 0) 
+            {
+                int index = rd.Next(0, pos.Count());
+                return pos[index];
+            } 
             return bestPosition;
         }
 
