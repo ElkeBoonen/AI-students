@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\elkeb\\OneDrive - Thomas More\\Cursusmateriaal\\Artificial Intelligence\\Oefeningen\\AI-students\\06 NB\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AA987A29-8AD2-4768-8656-3ABBBBD56C64}|06 NB.csproj|c:\\users\\elkeb\\onedrive - thomas more\\cursusmateriaal\\artificial intelligence\\oefeningen\\ai-students\\06 nb\\nb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA987A29-8AD2-4768-8656-3ABBBBD56C64}|06 NB.csproj|solutionrelative:nb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AA987A29-8AD2-4768-8656-3ABBBBD56C64}|06 NB.csproj|c:\\users\\elkeb\\onedrive - thomas more\\cursusmateriaal\\artificial intelligence\\oefeningen\\ai-students\\06 nb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AA987A29-8AD2-4768-8656-3ABBBBD56C64}|06 NB.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA987A29-8AD2-4768-8656-3ABBBBD56C64}|06 NB.csproj|c:\\users\\elkeb\\onedrive - thomas more\\cursusmateriaal\\artificial intelligence\\oefeningen\\ai-students\\06 nb\\data_small.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AA987A29-8AD2-4768-8656-3ABBBBD56C64}|06 NB.csproj|solutionrelative:data_small.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "data_small.csv",
+              "DocumentMoniker": "C:\\Users\\elkeb\\OneDrive - Thomas More\\Cursusmateriaal\\Artificial Intelligence\\Oefeningen\\AI-students\\06 NB\\data_small.csv",
+              "RelativeDocumentMoniker": "data_small.csv",
+              "ToolTip": "C:\\Users\\elkeb\\OneDrive - Thomas More\\Cursusmateriaal\\Artificial Intelligence\\Oefeningen\\AI-students\\06 NB\\data_small.csv",
+              "RelativeToolTip": "data_small.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-11-07T08:56:23.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "NB.cs",
+              "DocumentMoniker": "C:\\Users\\elkeb\\OneDrive - Thomas More\\Cursusmateriaal\\Artificial Intelligence\\Oefeningen\\AI-students\\06 NB\\NB.cs",
+              "RelativeDocumentMoniker": "NB.cs",
+              "ToolTip": "C:\\Users\\elkeb\\OneDrive - Thomas More\\Cursusmateriaal\\Artificial Intelligence\\Oefeningen\\AI-students\\06 NB\\NB.cs*",
+              "RelativeToolTip": "NB.cs*",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwDcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T08:20:34.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\elkeb\\OneDrive - Thomas More\\Cursusmateriaal\\Artificial Intelligence\\Oefeningen\\AI-students\\06 NB\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\elkeb\\OneDrive - Thomas More\\Cursusmateriaal\\Artificial Intelligence\\Oefeningen\\AI-students\\06 NB\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-07T08:17:50.005Z",
               "EditorCaption": ""

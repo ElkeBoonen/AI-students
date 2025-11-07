@@ -1,0 +1,16 @@
+C:\Users\elkeb\OneDrive - Thomas More\Cursusmateriaal\Artificial Intelligence\Oefeningen\AI-students\06 NB\bin\Debug\net8.0\data_small.csv
+C:\Users\elkeb\OneDrive - Thomas More\Cursusmateriaal\Artificial Intelligence\Oefeningen\AI-students\06 NB\bin\Debug\net8.0\06 NB.exe
+C:\Users\elkeb\OneDrive - Thomas More\Cursusmateriaal\Artificial Intelligence\Oefeningen\AI-students\06 NB\bin\Debug\net8.0\06 NB.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Cursusmateriaal\Artificial Intelligence\Oefeningen\AI-students\06 NB\bin\Debug\net8.0\06 NB.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Cursusmateriaal\Artificial Intelligence\Oefeningen\AI-students\06 NB\bin\Debug\net8.0\06 NB.dll
+C:\Users\elkeb\OneDrive - Thomas More\Cursusmateriaal\Artificial Intelligence\Oefeningen\AI-students\06 NB\bin\Debug\net8.0\06 NB.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Cursusmateriaal\Artificial Intelligence\Oefeningen\AI-students\06 NB\obj\Debug\net8.0\06 NB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Cursusmateriaal\Artificial Intelligence\Oefeningen\AI-students\06 NB\obj\Debug\net8.0\06 NB.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Cursusmateriaal\Artificial Intelligence\Oefeningen\AI-students\06 NB\obj\Debug\net8.0\06 NB.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Cursusmateriaal\Artificial Intelligence\Oefeningen\AI-students\06 NB\obj\Debug\net8.0\06 NB.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Cursusmateriaal\Artificial Intelligence\Oefeningen\AI-students\06 NB\obj\Debug\net8.0\06 NB.sourcelink.json
+C:\Users\elkeb\OneDrive - Thomas More\Cursusmateriaal\Artificial Intelligence\Oefeningen\AI-students\06 NB\obj\Debug\net8.0\06 NB.dll
+C:\Users\elkeb\OneDrive - Thomas More\Cursusmateriaal\Artificial Intelligence\Oefeningen\AI-students\06 NB\obj\Debug\net8.0\refint\06 NB.dll
+C:\Users\elkeb\OneDrive - Thomas More\Cursusmateriaal\Artificial Intelligence\Oefeningen\AI-students\06 NB\obj\Debug\net8.0\06 NB.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Cursusmateriaal\Artificial Intelligence\Oefeningen\AI-students\06 NB\obj\Debug\net8.0\06 NB.genruntimeconfig.cache
+C:\Users\elkeb\OneDrive - Thomas More\Cursusmateriaal\Artificial Intelligence\Oefeningen\AI-students\06 NB\obj\Debug\net8.0\ref\06 NB.dll
