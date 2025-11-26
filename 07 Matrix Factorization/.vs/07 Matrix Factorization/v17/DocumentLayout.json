@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\elkeb\\OneDrive - Thomas More\\Cursusmateriaal\\Artificial Intelligence\\Oefeningen\\AI-students\\07 Matrix Factorization\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D92A8FE-B2B6-4C65-8B32-1D53626B3162}|07 Matrix Factorization.csproj|c:\\users\\elkeb\\onedrive - thomas more\\cursusmateriaal\\artificial intelligence\\oefeningen\\ai-students\\07 matrix factorization\\matrixfactorization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D92A8FE-B2B6-4C65-8B32-1D53626B3162}|07 Matrix Factorization.csproj|solutionrelative:matrixfactorization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D92A8FE-B2B6-4C65-8B32-1D53626B3162}|07 Matrix Factorization.csproj|c:\\users\\elkeb\\onedrive - thomas more\\cursusmateriaal\\artificial intelligence\\oefeningen\\ai-students\\07 matrix factorization\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D92A8FE-B2B6-4C65-8B32-1D53626B3162}|07 Matrix Factorization.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MatrixFactorization.cs",
+              "DocumentMoniker": "C:\\Users\\elkeb\\OneDrive - Thomas More\\Cursusmateriaal\\Artificial Intelligence\\Oefeningen\\AI-students\\07 Matrix Factorization\\MatrixFactorization.cs",
+              "RelativeDocumentMoniker": "MatrixFactorization.cs",
+              "ToolTip": "C:\\Users\\elkeb\\OneDrive - Thomas More\\Cursusmateriaal\\Artificial Intelligence\\Oefeningen\\AI-students\\07 Matrix Factorization\\MatrixFactorization.cs",
+              "RelativeToolTip": "MatrixFactorization.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAIwDkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T08:36:08.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\elkeb\\OneDrive - Thomas More\\Cursusmateriaal\\Artificial Intelligence\\Oefeningen\\AI-students\\07 Matrix Factorization\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\elkeb\\OneDrive - Thomas More\\Cursusmateriaal\\Artificial Intelligence\\Oefeningen\\AI-students\\07 Matrix Factorization\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T08:34:54.242Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\elkeb\OneDrive - Thomas More\Cursusmateriaal\Artificial Intelligence\Oefeningen\AI-students\07 Matrix Factorization\bin\Debug\net8.0\07 Matrix Factorization.exe
+C:\Users\elkeb\OneDrive - Thomas More\Cursusmateriaal\Artificial Intelligence\Oefeningen\AI-students\07 Matrix Factorization\bin\Debug\net8.0\07 Matrix Factorization.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Cursusmateriaal\Artificial Intelligence\Oefeningen\AI-students\07 Matrix Factorization\bin\Debug\net8.0\07 Matrix Factorization.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Cursusmateriaal\Artificial Intelligence\Oefeningen\AI-students\07 Matrix Factorization\bin\Debug\net8.0\07 Matrix Factorization.dll
+C:\Users\elkeb\OneDrive - Thomas More\Cursusmateriaal\Artificial Intelligence\Oefeningen\AI-students\07 Matrix Factorization\bin\Debug\net8.0\07 Matrix Factorization.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Cursusmateriaal\Artificial Intelligence\Oefeningen\AI-students\07 Matrix Factorization\obj\Debug\net8.0\07 Matrix Factorization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Cursusmateriaal\Artificial Intelligence\Oefeningen\AI-students\07 Matrix Factorization\obj\Debug\net8.0\07 Matrix Factorization.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Cursusmateriaal\Artificial Intelligence\Oefeningen\AI-students\07 Matrix Factorization\obj\Debug\net8.0\07 Matrix Factorization.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Cursusmateriaal\Artificial Intelligence\Oefeningen\AI-students\07 Matrix Factorization\obj\Debug\net8.0\07 Matrix Factorization.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Cursusmateriaal\Artificial Intelligence\Oefeningen\AI-students\07 Matrix Factorization\obj\Debug\net8.0\07 Matrix Factorization.sourcelink.json
+C:\Users\elkeb\OneDrive - Thomas More\Cursusmateriaal\Artificial Intelligence\Oefeningen\AI-students\07 Matrix Factorization\obj\Debug\net8.0\07 Matrix Factorization.dll
+C:\Users\elkeb\OneDrive - Thomas More\Cursusmateriaal\Artificial Intelligence\Oefeningen\AI-students\07 Matrix Factorization\obj\Debug\net8.0\refint\07 Matrix Factorization.dll
+C:\Users\elkeb\OneDrive - Thomas More\Cursusmateriaal\Artificial Intelligence\Oefeningen\AI-students\07 Matrix Factorization\obj\Debug\net8.0\07 Matrix Factorization.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Cursusmateriaal\Artificial Intelligence\Oefeningen\AI-students\07 Matrix Factorization\obj\Debug\net8.0\07 Matrix Factorization.genruntimeconfig.cache
+C:\Users\elkeb\OneDrive - Thomas More\Cursusmateriaal\Artificial Intelligence\Oefeningen\AI-students\07 Matrix Factorization\obj\Debug\net8.0\ref\07 Matrix Factorization.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07 Matrix Factorization", "07 Matrix Factorization.csproj", "{7D92A8FE-B2B6-4C65-8B32-1D53626B3162}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D92A8FE-B2B6-4C65-8B32-1D53626B3162}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D92A8FE-B2B6-4C65-8B32-1D53626B3162}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D92A8FE-B2B6-4C65-8B32-1D53626B3162}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D92A8FE-B2B6-4C65-8B32-1D53626B3162}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9EED27C-BB1F-4F3A-8252-0777A99C4A4F}
+	EndGlobalSection
+EndGlobal
