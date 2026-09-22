@@ -1,0 +1,15 @@
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\01 Randomness\01 Randomness\bin\Debug\net10.0\01 Randomness.exe
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\01 Randomness\01 Randomness\bin\Debug\net10.0\01 Randomness.deps.json
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\01 Randomness\01 Randomness\bin\Debug\net10.0\01 Randomness.runtimeconfig.json
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\01 Randomness\01 Randomness\bin\Debug\net10.0\01 Randomness.dll
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\01 Randomness\01 Randomness\bin\Debug\net10.0\01 Randomness.pdb
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\01 Randomness\01 Randomness\obj\Debug\net10.0\01 Randomness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\01 Randomness\01 Randomness\obj\Debug\net10.0\01 Randomness.AssemblyInfoInputs.cache
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\01 Randomness\01 Randomness\obj\Debug\net10.0\01 Randomness.AssemblyInfo.cs
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\01 Randomness\01 Randomness\obj\Debug\net10.0\01 Randomness.csproj.CoreCompileInputs.cache
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\01 Randomness\01 Randomness\obj\Debug\net10.0\01 Randomness.sourcelink.json
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\01 Randomness\01 Randomness\obj\Debug\net10.0\01 Randomness.dll
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\01 Randomness\01 Randomness\obj\Debug\net10.0\refint\01 Randomness.dll
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\01 Randomness\01 Randomness\obj\Debug\net10.0\01 Randomness.pdb
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\01 Randomness\01 Randomness\obj\Debug\net10.0\01 Randomness.genruntimeconfig.cache
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\01 Randomness\01 Randomness\obj\Debug\net10.0\ref\01 Randomness.dll
