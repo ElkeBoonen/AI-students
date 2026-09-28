@@ -1,20 +1,20 @@
 
 using MiniMax;
 
-
 TicTacToe ttt = new TicTacToe();
-char player = 'X';
+
+char player = 'O';
 
 Console.WriteLine(ttt);
 
 while (!ttt.Full())
 {
     int position;
-    if (player == 'X')
+    if (player == 'O')
     {
-        Console.Write("Plaats X op vakje: ");
+        Console.Write("Plaats O op vakje: ");
         position = Convert.ToInt32(Console.ReadLine());
-        if (!ttt.IsFree(position)) continue; // vakje bezet? --> terug naar boven
+        if (!ttt.IsFree(position)) continue;
     }
     else
     {

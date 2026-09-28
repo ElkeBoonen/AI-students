@@ -1,10 +1,10 @@
 namespace MiniMax
 {
-    // O = computer (MAX), X = speler (MIN)
+    // X = computer (MAX), O = speler (MIN)
     internal class TicTacToe
     {
         char[] _board;
-
+ 
         public TicTacToe()
         {
             _board = new char[9];
@@ -13,42 +13,42 @@ namespace MiniMax
                 _board[i] = i.ToString()[0];
             }
         }
-
+ 
         public int SmartPlayer()
         {
             // TODO
             return NaivePlayer();
         }
-
+ 
         private int MinMax(bool isMax)
         {
             // TODO
             return 0;
         }
-
+ 
         private int Score()
         {
             // TODO
             return 0;
         }
-
+ 
         internal int NaivePlayer()
         {
             Random rd = new Random();
             List<int> list = EmptyPlaces();
             return list[rd.Next(0, list.Count)];
         }
-
+ 
         private void DoMove(int position, char player)
         {
             _board[position] = player;
         }
-
+ 
         private void UndoMove(int position)
         {
             _board[position] = position.ToString()[0];
         }
-
+ 
         private List<int> EmptyPlaces()
         {
             List<int> list = new List<int>();
@@ -58,22 +58,22 @@ namespace MiniMax
             }
             return list;
         }
-
+ 
         internal bool Full()
         {
             return EmptyPlaces().Count == 0;
         }
-
+ 
         internal bool IsFree(int position)
         {
             return position >= 0 && position < _board.Length && _board[position] == position.ToString()[0];
         }
-
+ 
         internal void Place(char player, int position)
         {
             if (IsFree(position)) _board[position] = player;
         }
-
+ 
         internal bool Wins(char player)
         {
             int[,] lines =
@@ -90,7 +90,7 @@ namespace MiniMax
             }
             return false;
         }
-
+ 
         public override string ToString()
         {
             string board = "     |     |      \n";
