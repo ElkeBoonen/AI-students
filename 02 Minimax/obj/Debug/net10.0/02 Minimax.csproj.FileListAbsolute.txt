@@ -1,0 +1,15 @@
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\02 Minimax\bin\Debug\net10.0\02 Minimax.exe
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\02 Minimax\bin\Debug\net10.0\02 Minimax.deps.json
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\02 Minimax\bin\Debug\net10.0\02 Minimax.runtimeconfig.json
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\02 Minimax\bin\Debug\net10.0\02 Minimax.dll
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\02 Minimax\bin\Debug\net10.0\02 Minimax.pdb
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\02 Minimax\obj\Debug\net10.0\02 Minimax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\02 Minimax\obj\Debug\net10.0\02 Minimax.AssemblyInfoInputs.cache
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\02 Minimax\obj\Debug\net10.0\02 Minimax.AssemblyInfo.cs
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\02 Minimax\obj\Debug\net10.0\02 Minimax.csproj.CoreCompileInputs.cache
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\02 Minimax\obj\Debug\net10.0\02 Minimax.sourcelink.json
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\02 Minimax\obj\Debug\net10.0\02 Minimax.dll
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\02 Minimax\obj\Debug\net10.0\refint\02 Minimax.dll
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\02 Minimax\obj\Debug\net10.0\02 Minimax.pdb
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\02 Minimax\obj\Debug\net10.0\02 Minimax.genruntimeconfig.cache
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\02 Minimax\obj\Debug\net10.0\ref\02 Minimax.dll
