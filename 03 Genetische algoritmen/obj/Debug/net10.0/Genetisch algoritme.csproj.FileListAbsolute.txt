@@ -1,0 +1,15 @@
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\03 Genetische algoritmen\bin\Debug\net10.0\Genetisch algoritme.exe
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\03 Genetische algoritmen\bin\Debug\net10.0\Genetisch algoritme.deps.json
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\03 Genetische algoritmen\bin\Debug\net10.0\Genetisch algoritme.runtimeconfig.json
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\03 Genetische algoritmen\bin\Debug\net10.0\Genetisch algoritme.dll
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\03 Genetische algoritmen\bin\Debug\net10.0\Genetisch algoritme.pdb
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\03 Genetische algoritmen\obj\Debug\net10.0\Genetisch algoritme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\03 Genetische algoritmen\obj\Debug\net10.0\Genetisch algoritme.AssemblyInfoInputs.cache
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\03 Genetische algoritmen\obj\Debug\net10.0\Genetisch algoritme.AssemblyInfo.cs
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\03 Genetische algoritmen\obj\Debug\net10.0\Genetisch algoritme.csproj.CoreCompileInputs.cache
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\03 Genetische algoritmen\obj\Debug\net10.0\Genetisch algoritme.sourcelink.json
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\03 Genetische algoritmen\obj\Debug\net10.0\Genetisch algoritme.dll
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\03 Genetische algoritmen\obj\Debug\net10.0\refint\Genetisch algoritme.dll
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\03 Genetische algoritmen\obj\Debug\net10.0\Genetisch algoritme.pdb
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\03 Genetische algoritmen\obj\Debug\net10.0\Genetisch algoritme.genruntimeconfig.cache
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\03 Genetische algoritmen\obj\Debug\net10.0\ref\Genetisch algoritme.dll
