@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\u0116591\\OneDrive - Thomas More\\GitHub 24-25\\AI-students\\04 Naive Bayes\\Naive Bayes\\Naive Bayes.csproj",
-      "projectName": "Naive Bayes",
-      "projectPath": "C:\\Users\\u0116591\\OneDrive - Thomas More\\GitHub 24-25\\AI-students\\04 Naive Bayes\\Naive Bayes\\Naive Bayes.csproj",
+      "projectUniqueName": "C:\\Users\\u0116591\\OneDrive - Thomas More\\GitHub 24-25\\AI-students\\04 Naive Bayes\\NB\\NB.csproj",
+      "projectName": "NB",
+      "projectPath": "C:\\Users\\u0116591\\OneDrive - Thomas More\\GitHub 24-25\\AI-students\\04 Naive Bayes\\NB\\NB.csproj",
       "packagesPath": "C:\\Users\\u0116591\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\u0116591\\OneDrive - Thomas More\\GitHub 24-25\\AI-students\\04 Naive Bayes\\Naive Bayes\\obj\\",
+      "outputPath": "C:\\Users\\u0116591\\OneDrive - Thomas More\\GitHub 24-25\\AI-students\\04 Naive Bayes\\NB\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\u0116591\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,0 +1,15 @@
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\04 Naive Bayes\NB\bin\Debug\net10.0\NB.exe
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\04 Naive Bayes\NB\bin\Debug\net10.0\NB.deps.json
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\04 Naive Bayes\NB\bin\Debug\net10.0\NB.runtimeconfig.json
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\04 Naive Bayes\NB\bin\Debug\net10.0\NB.dll
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\04 Naive Bayes\NB\bin\Debug\net10.0\NB.pdb
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\04 Naive Bayes\NB\obj\Debug\net10.0\NB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\04 Naive Bayes\NB\obj\Debug\net10.0\NB.AssemblyInfoInputs.cache
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\04 Naive Bayes\NB\obj\Debug\net10.0\NB.AssemblyInfo.cs
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\04 Naive Bayes\NB\obj\Debug\net10.0\NB.csproj.CoreCompileInputs.cache
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\04 Naive Bayes\NB\obj\Debug\net10.0\NB.sourcelink.json
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\04 Naive Bayes\NB\obj\Debug\net10.0\NB.dll
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\04 Naive Bayes\NB\obj\Debug\net10.0\refint\NB.dll
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\04 Naive Bayes\NB\obj\Debug\net10.0\NB.pdb
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\04 Naive Bayes\NB\obj\Debug\net10.0\NB.genruntimeconfig.cache
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\04 Naive Bayes\NB\obj\Debug\net10.0\ref\NB.dll
