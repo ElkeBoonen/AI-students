@@ -11,3 +11,4 @@ Console.WriteLine(String.Join(" ", spam));
 
 Console.WriteLine(String.Join(" ", ham));
 NB nb = new NB();
+nb.Train(spam, ham);
