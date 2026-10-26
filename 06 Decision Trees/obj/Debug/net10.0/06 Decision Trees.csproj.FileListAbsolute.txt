@@ -1,0 +1,15 @@
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\06 Decision Trees\bin\Debug\net10.0\06 Decision Trees.exe
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\06 Decision Trees\bin\Debug\net10.0\06 Decision Trees.deps.json
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\06 Decision Trees\bin\Debug\net10.0\06 Decision Trees.runtimeconfig.json
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\06 Decision Trees\bin\Debug\net10.0\06 Decision Trees.dll
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\06 Decision Trees\bin\Debug\net10.0\06 Decision Trees.pdb
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\06 Decision Trees\obj\Debug\net10.0\06 Decision Trees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\06 Decision Trees\obj\Debug\net10.0\06 Decision Trees.AssemblyInfoInputs.cache
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\06 Decision Trees\obj\Debug\net10.0\06 Decision Trees.AssemblyInfo.cs
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\06 Decision Trees\obj\Debug\net10.0\06 Decision Trees.csproj.CoreCompileInputs.cache
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\06 Decision Trees\obj\Debug\net10.0\06 Decision Trees.sourcelink.json
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\06 Decision Trees\obj\Debug\net10.0\06 Decision Trees.dll
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\06 Decision Trees\obj\Debug\net10.0\refint\06 Decision Trees.dll
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\06 Decision Trees\obj\Debug\net10.0\06 Decision Trees.pdb
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\06 Decision Trees\obj\Debug\net10.0\06 Decision Trees.genruntimeconfig.cache
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\06 Decision Trees\obj\Debug\net10.0\ref\06 Decision Trees.dll

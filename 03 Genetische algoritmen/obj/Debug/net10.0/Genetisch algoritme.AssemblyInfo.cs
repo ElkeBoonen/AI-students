@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Genetisch algoritme")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6e6468f40a7e0b44d1e5b7ab3de7f273a7a0b54d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc654da8c8e367d6b467613b97dc19db6f3fcd36")]
 [assembly: System.Reflection.AssemblyProductAttribute("Genetisch algoritme")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Genetisch algoritme")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

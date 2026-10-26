@@ -1,3 +1,5 @@
+using System.Diagnostics.CodeAnalysis;
+
 namespace _05_KNN
 {
     internal class KNN
@@ -29,15 +31,27 @@ namespace _05_KNN
         // Euclidisch: wortel van de som van (p[i] - q[i])²
         public double Distance(double[] p, double[] q)
         {
-            // TODO
-            return 0;
+            if (p.Length != q.Length) throw new Exception("Dit is niet ok! P & q moeten van zelfde lengte zijn! ");
+            double afstand = 0;
+
+            for (int i =0; i < p.Length; i++)
+            {
+                afstand += Math.Pow(p[i]-q[i],2);
+            }
+            return Math.Sqrt(afstand);
         }
 
         // Manhattan: som van |p[i] - q[i]|   (tip: Math.Abs)
         public double Manhattan(double[] p, double[] q)
         {
-            // TODO
-            return 0;
+            if (p.Length != q.Length) throw new Exception("Dit is niet ok! P & q moeten van zelfde lengte zijn! ");
+            double afstand = 0;
+
+            for (int i =0; i < p.Length; i++)
+            {
+                afstand += Math.Abs(p[i]-q[i]);
+            }
+            return afstand;
         }
 
         // ===== BLOK 2 =====================================================
@@ -49,21 +63,31 @@ namespace _05_KNN
             double[][] points = new double[data.Count][];
 
             // Stap 2: vul ze met een foreach over data.Keys (hou zelf een teller i bij)
-            // TODO
+            int teller = 0;
+            foreach (double[] p in data.Keys)
+            {
+                distances[teller] = Distance(p, point);
+                points[teller] = p;
+                teller++;
+            }
 
             // Stap 3: sorteer beide arrays tegelijk op afstand (staat er al)
             Array.Sort(distances, points);
 
             // Stap 4: toon de k dichtste buren, bv. "47  440  -> romantiek (afstand 30.48)"
             //         het label van een punt vind je met data[points[i]]
-            // TODO
+            Dictionary<string, int> labels = new Dictionary<string, int>();
 
-            // Stap 5: tel de labels van de eerste k buren in een Dictionary<string, int>
-            // TODO
+            for (int i =0; i < k; i++)
+            {
+                Console.WriteLine(String.Join(" ",points[i]) + " --> " +  data[points[i]] + " met afstand " + distances[i]);
+                string label = data[points[i]];
+                if (!labels.ContainsKey(label)) labels[label] = 0;
+                labels[label]++;
+            }
 
             // Stap 6: geef het label met de hoogste telling terug
-            // TODO
-            return "";
+            return labels.OrderByDescending(x => x.Value).First().Key;
         }
 
         // ===== BLOK 3 =====================================================
@@ -76,8 +100,25 @@ namespace _05_KNN
             min = new double[n];
             max = new double[n];
 
-            // TODO: vul min en max
-            // TODO: schaal elke waarde in data (foreach over data.Keys)
+            for (int i = 0; i < n; i++)
+            {
+                min[i] = Double.MaxValue;
+                max[i] = Double.MinValue;
+
+                foreach (double[] p in data.Keys)
+                {
+                    if (p[i] < min[i]) min[i] = p[i];
+                    if (p[i] > max[i]) max[i] = p[i];
+                }
+            }
+            
+            foreach (double[] p in data.Keys)
+            {
+                for (int i = 0; i < n; i++)
+                {
+                    p[i] = (p[i] - min[i]) / (max[i] - min[i]);
+                }
+            }
         }
 
         // Schaal een nieuw punt met dezelfde min en max
