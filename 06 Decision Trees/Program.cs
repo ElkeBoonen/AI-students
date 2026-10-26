@@ -4,7 +4,7 @@
 
 using System.Globalization;
 
-CultureInfo.DefaultThreadCurrentCulture = CultureInfo.InvariantCulture;
+// zodat getallen met een punt verschijnen (0.5), zoals op de slides
 CultureInfo.CurrentCulture = CultureInfo.InvariantCulture;
 
 // Binge-watchen (cursus 6.3.3)   Genre: 0 = Drama, 1 = SF   ·   Tempo: 0 = Traag, 1 = Snel
@@ -46,7 +46,7 @@ Check("Winst Tempo", DecisionTree.GiniGain(binge, 1, 0.5), "0.125");
 Check("Winst leeftijd <= 24", DecisionTree.GiniGain(klanten, 0, 24), "0.25");
 Check("Winst leeftijd <= 37", DecisionTree.GiniGain(klanten, 0, 37), "0.5");
 
-var leeg = new DecisionTree(new[] { "x", "y" });
+var leeg = new DecisionTree(new[] { "x", "y" });   // lege boom, enkel om BestSplit op te roepen
 CheckSplit("Beste vraag binge", leeg.BestSplit(binge), "(0, 0.5, 0.125)");
 CheckSplit("Beste vraag klanten", leeg.BestSplit(klanten), "(0, 37, 0.5)");
 
@@ -78,10 +78,6 @@ for (int d = 1; d <= 6; d++)
     boom.Train(train);
     Console.WriteLine($"{d,8}  {Accuracy(boom, train),5:P0}  {Accuracy(boom, test),5:P0}   {boom.Predict(bloem)}");
 }
-
-// BONUS B1: print de iris-boom met maxDepth 2. Welke kenmerken gebruikt hij?
-// BONUS B2: vermenigvuldig in 'klanten' de minuten met 1000. Verandert de boom?
-// BONUS B3: schrijf Entropy (onderaan DecisionTree.cs). Verwacht: alle 8 → 1, SF → 0.811, zuiver → 0.
 
 // ---------------------------------------------------------------------
 // Hulpfuncties – niet aanpassen
