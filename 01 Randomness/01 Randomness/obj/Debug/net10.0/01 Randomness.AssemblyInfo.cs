@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("01 Randomness")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+737fdcedb4071ccd183879d0d3942e6eb38db3ba")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+053b539c5112e9820b6141ad500453702ada015f")]
 [assembly: System.Reflection.AssemblyProductAttribute("01 Randomness")]
 [assembly: System.Reflection.AssemblyTitleAttribute("01 Randomness")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

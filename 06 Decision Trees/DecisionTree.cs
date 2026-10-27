@@ -1,6 +1,11 @@
 // Les 6 – Decision Trees (cursus H6, p. 49-53)
 // STARTCODE – vul blok 1, 2 en 3 aan. Test telkens met Program.cs.
 
+using System.Reflection.Emit;
+using System.Security.AccessControl;
+using System.Security.Authentication;
+using Microsoft.VisualBasic;
+
 public class DecisionTree
 {
     public string[] FeatureNames { get; }
@@ -26,7 +31,15 @@ public class DecisionTree
         // 1  tel de labels met CountLabels(data)
         // 2  per label: p = aantal / data.Count
         // 3  tel alle p² op en geef 1 − die som terug
-        return 0;
+
+        Dictionary<string, int> labels = CountLabels(data);
+        double psom = 0;
+        foreach (var label in labels)
+        {
+            psom += Math.Pow((double)label.Value/(double)data.Count,2);
+        }
+
+        return 1 - psom;
     }
 
     // =====================================================================
@@ -41,7 +54,10 @@ public class DecisionTree
         // 2  gewogen Gini = (aantal links / totaal) · Gini(links)
         //                 + (aantal rechts / totaal) · Gini(rechts)
         // 3  geef Gini(data) − gewogen Gini terug
-        return 0;
+
+        (List<Sample> Left, List<Sample> Right) = Split(data, feature, threshold);
+        double gewogen_Gini = ((double)Left.Count/(double)data.Count)*Gini(Left) + ((double)Right.Count/(double)data.Count)*Gini(Right);
+        return Gini(data)-gewogen_Gini;
     }
 
     // Probeer elk kenmerk en elke drempel. Onthoud de vraag met de grootste winst.
@@ -60,6 +76,18 @@ public class DecisionTree
             // 1  voor elke twee buurwaarden: drempel = het midden
             // 2  winst = GiniGain(data, f, drempel)
             // 3  is de winst groter dan besteWinst? Onthoud kenmerk, drempel en winst.
+
+            for (int i=1; i < waarden.Length; i++)
+            {
+                double drempel = ((double)waarden[i-1] + (double)waarden[i])/2.0;
+                double winst = GiniGain(data, f, drempel);
+                if (winst > besteWinst)
+                {
+                    besteKenmerk = f;
+                    besteDrempel = drempel;
+                    besteWinst = winst;
+                }
+            }
         }
 
         return (besteKenmerk, besteDrempel, besteWinst);
@@ -74,6 +102,19 @@ public class DecisionTree
     // Pseudocode: cursus p. 52
     private Node Build(List<Sample> data, int depth)
     {
+        if (CountLabels(data).Count == 1 || depth == MaxDepth || data.Count < MinSamples)
+            return new Node { Label = MostFrequent(data)};
+
+        (int feature, double threshold, double winst) = BestSplit(data);
+        if (winst == 0) return new Node { Label = MostFrequent(data)};
+
+        (List<Sample> LeftTree, List<Sample> RightTree) = Split(data, feature, threshold);
+        return new Node { 
+            FeatureIndex = feature, 
+            FeatureThreshold = threshold, 
+            Left = Build(LeftTree, depth+1),
+            Right = Build(RightTree, depth+1)};
+        
         // Stappen:
         // 1  stoppen? Groep zuiver (CountLabels(data).Count == 1), depth == MaxDepth
         //    of data.Count < MinSamples  ->  geef een blad terug: new Node { Label = MostFrequent(data) }
@@ -82,7 +123,7 @@ public class DecisionTree
         // 4  geef een knoop terug met FeatureIndex, FeatureThreshold,
         //    Left = Build(links, depth + 1) en Right = Build(rechts, depth + 1)
 
-        return new Node { Label = MostFrequent(data) };   // tijdelijk: de boom is één blad
+        //return new Node { Label = MostFrequent(data) };   // tijdelijk: de boom is één blad
     }
 
     public string Predict(double[] x) => Predict(Root!, x);
@@ -90,9 +131,13 @@ public class DecisionTree
     private string Predict(Node node, double[] x)
     {
         // Stappen:
+        if (node.IsLeaf) return node.Label;
+        else if (x[node.FeatureIndex] <= node.FeatureThreshold) return Predict(node.Left,x);
+        else return Predict(node.Right, x);
+
         // 1  is node een blad? Geef het label terug
         // 2  anders: x[node.FeatureIndex] <= node.FeatureThreshold?  ->  ga links, anders rechts
-        return "?";
+        //return "?";
     }
 
     // =====================================================================
