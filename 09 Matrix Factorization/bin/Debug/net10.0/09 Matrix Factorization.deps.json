@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "09 Matrix Factorization/1.0.0": {
+        "runtime": {
+          "09 Matrix Factorization.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "09 Matrix Factorization/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

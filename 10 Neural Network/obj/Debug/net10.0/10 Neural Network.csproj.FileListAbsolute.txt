@@ -1,0 +1,15 @@
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\10 Neural Network\obj\Debug\net10.0\10 Neural Network.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\10 Neural Network\obj\Debug\net10.0\10 Neural Network.AssemblyInfoInputs.cache
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\10 Neural Network\obj\Debug\net10.0\10 Neural Network.AssemblyInfo.cs
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\10 Neural Network\obj\Debug\net10.0\10 Neural Network.csproj.CoreCompileInputs.cache
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\10 Neural Network\obj\Debug\net10.0\10 Neural Network.sourcelink.json
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\10 Neural Network\bin\Debug\net10.0\10 Neural Network.exe
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\10 Neural Network\bin\Debug\net10.0\10 Neural Network.deps.json
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\10 Neural Network\bin\Debug\net10.0\10 Neural Network.runtimeconfig.json
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\10 Neural Network\bin\Debug\net10.0\10 Neural Network.dll
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\10 Neural Network\bin\Debug\net10.0\10 Neural Network.pdb
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\10 Neural Network\obj\Debug\net10.0\10 Neural Network.dll
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\10 Neural Network\obj\Debug\net10.0\refint\10 Neural Network.dll
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\10 Neural Network\obj\Debug\net10.0\10 Neural Network.pdb
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\10 Neural Network\obj\Debug\net10.0\10 Neural Network.genruntimeconfig.cache
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\10 Neural Network\obj\Debug\net10.0\ref\10 Neural Network.dll

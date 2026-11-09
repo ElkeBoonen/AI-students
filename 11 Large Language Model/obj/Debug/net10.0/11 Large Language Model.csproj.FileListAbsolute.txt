@@ -1,0 +1,15 @@
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\11 Large Language Model\bin\Debug\net10.0\11 Large Language Model.exe
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\11 Large Language Model\bin\Debug\net10.0\11 Large Language Model.deps.json
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\11 Large Language Model\bin\Debug\net10.0\11 Large Language Model.runtimeconfig.json
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\11 Large Language Model\bin\Debug\net10.0\11 Large Language Model.dll
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\11 Large Language Model\bin\Debug\net10.0\11 Large Language Model.pdb
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\11 Large Language Model\obj\Debug\net10.0\11 Large Language Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\11 Large Language Model\obj\Debug\net10.0\11 Large Language Model.AssemblyInfoInputs.cache
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\11 Large Language Model\obj\Debug\net10.0\11 Large Language Model.AssemblyInfo.cs
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\11 Large Language Model\obj\Debug\net10.0\11 Large Language Model.csproj.CoreCompileInputs.cache
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\11 Large Language Model\obj\Debug\net10.0\11 Large Language Model.sourcelink.json
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\11 Large Language Model\obj\Debug\net10.0\11 Large Language Model.dll
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\11 Large Language Model\obj\Debug\net10.0\refint\11 Large Language Model.dll
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\11 Large Language Model\obj\Debug\net10.0\11 Large Language Model.pdb
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\11 Large Language Model\obj\Debug\net10.0\11 Large Language Model.genruntimeconfig.cache
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\11 Large Language Model\obj\Debug\net10.0\ref\11 Large Language Model.dll

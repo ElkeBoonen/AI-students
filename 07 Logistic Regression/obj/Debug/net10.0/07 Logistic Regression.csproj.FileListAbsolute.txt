@@ -1,0 +1,15 @@
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\07 Logistic Regression\bin\Debug\net10.0\07 Logistic Regression.exe
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\07 Logistic Regression\bin\Debug\net10.0\07 Logistic Regression.deps.json
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\07 Logistic Regression\bin\Debug\net10.0\07 Logistic Regression.runtimeconfig.json
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\07 Logistic Regression\bin\Debug\net10.0\07 Logistic Regression.dll
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\07 Logistic Regression\bin\Debug\net10.0\07 Logistic Regression.pdb
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\07 Logistic Regression\obj\Debug\net10.0\07 Logistic Regression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\07 Logistic Regression\obj\Debug\net10.0\07 Logistic Regression.AssemblyInfoInputs.cache
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\07 Logistic Regression\obj\Debug\net10.0\07 Logistic Regression.AssemblyInfo.cs
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\07 Logistic Regression\obj\Debug\net10.0\07 Logistic Regression.csproj.CoreCompileInputs.cache
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\07 Logistic Regression\obj\Debug\net10.0\07 Logistic Regression.sourcelink.json
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\07 Logistic Regression\obj\Debug\net10.0\07 Logistic Regression.dll
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\07 Logistic Regression\obj\Debug\net10.0\refint\07 Logistic Regression.dll
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\07 Logistic Regression\obj\Debug\net10.0\07 Logistic Regression.pdb
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\07 Logistic Regression\obj\Debug\net10.0\07 Logistic Regression.genruntimeconfig.cache
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\07 Logistic Regression\obj\Debug\net10.0\ref\07 Logistic Regression.dll

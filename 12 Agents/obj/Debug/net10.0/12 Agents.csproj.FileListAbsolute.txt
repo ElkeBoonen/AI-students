@@ -1,0 +1,15 @@
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\12 Agents\bin\Debug\net10.0\12 Agents.exe
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\12 Agents\bin\Debug\net10.0\12 Agents.deps.json
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\12 Agents\bin\Debug\net10.0\12 Agents.runtimeconfig.json
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\12 Agents\bin\Debug\net10.0\12 Agents.dll
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\12 Agents\bin\Debug\net10.0\12 Agents.pdb
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\12 Agents\obj\Debug\net10.0\12 Agents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\12 Agents\obj\Debug\net10.0\12 Agents.AssemblyInfoInputs.cache
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\12 Agents\obj\Debug\net10.0\12 Agents.AssemblyInfo.cs
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\12 Agents\obj\Debug\net10.0\12 Agents.csproj.CoreCompileInputs.cache
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\12 Agents\obj\Debug\net10.0\12 Agents.sourcelink.json
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\12 Agents\obj\Debug\net10.0\12 Agents.dll
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\12 Agents\obj\Debug\net10.0\refint\12 Agents.dll
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\12 Agents\obj\Debug\net10.0\12 Agents.pdb
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\12 Agents\obj\Debug\net10.0\12 Agents.genruntimeconfig.cache
+C:\Users\u0116591\OneDrive - Thomas More\GitHub 24-25\AI-students\12 Agents\obj\Debug\net10.0\ref\12 Agents.dll
